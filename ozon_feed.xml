@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Updated: 2026-06-16 15:55:15 -->
+<!-- Updated: 2026-06-16 16:55:20 -->
 <yml_catalog>
   <shop>
     <offers>
@@ -492,7 +492,7 @@
       <offer id="5764">
         <price>379990</price>
         <outlets>
-          <outlet instock="4" warehouse_name="LG Electronics PP_2"/>
+          <outlet instock="0" warehouse_name="LG Electronics PP_2"/>
         </outlets>
       </offer>
       <offer id="5766">
@@ -1092,7 +1092,7 @@
       <offer id="5886">
         <price>439990</price>
         <outlets>
-          <outlet instock="2" warehouse_name="LG Electronics PP_2"/>
+          <outlet instock="3" warehouse_name="LG Electronics PP_2"/>
         </outlets>
       </offer>
       <offer id="5887">
@@ -1602,7 +1602,7 @@
       <offer id="6509">
         <price>264990</price>
         <outlets>
-          <outlet instock="1" warehouse_name="LG Electronics PP_2"/>
+          <outlet instock="2" warehouse_name="LG Electronics PP_2"/>
         </outlets>
       </offer>
       <offer id="6510">
@@ -4681,6 +4681,36 @@
         <price>299990</price>
         <outlets>
           <outlet instock="2" warehouse_name="LG Electronics PP_2"/>
+        </outlets>
+      </offer>
+      <offer id="47164">
+        <price>115990</price>
+        <outlets>
+          <outlet instock="0" warehouse_name="LG Electronics PP_2"/>
+        </outlets>
+      </offer>
+      <offer id="47165">
+        <price>65990</price>
+        <outlets>
+          <outlet instock="0" warehouse_name="LG Electronics PP_2"/>
+        </outlets>
+      </offer>
+      <offer id="47166">
+        <price>139990</price>
+        <outlets>
+          <outlet instock="0" warehouse_name="LG Electronics PP_2"/>
+        </outlets>
+      </offer>
+      <offer id="47167">
+        <price>124990</price>
+        <outlets>
+          <outlet instock="0" warehouse_name="LG Electronics PP_2"/>
+        </outlets>
+      </offer>
+      <offer id="47168">
+        <price>169990</price>
+        <outlets>
+          <outlet instock="3" warehouse_name="LG Electronics PP_2"/>
         </outlets>
       </offer>
     </offers>
