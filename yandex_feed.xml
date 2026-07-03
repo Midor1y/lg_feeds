@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE yml_catalog SYSTEM "shops.dtd">
+<yml_catalog date="2026-07-03 16:07">
+  <shop>
+    <name>LG Electronics Kazakhstan</name>
+    <company>LG Electronics</company>
+    <url>https://www.lg.com/kz</url>
+    <currencies>
+      <currency id="KZT" rate="1"/>
+    </currencies>
+    <categories>
+      <category id="TV">TV &amp; Soundbars</category>
+      <category id="SPK">Speakers</category>
+      <category id="REF">Refrigerators</category>
+      <category id="WM">Laundry</category>
+      <category id="VC">Vacuum Cleaners</category>
+      <category id="BI">Built-in Appliances</category>
+      <category id="MW">Microwave Ovens</category>
+      <category id="AC">Air Conditioners</category>
+      <category id="MON">Monitors</category>
+    </categories>
+    <offers>
+    </offers>
+  </shop>
+</yml_catalog>
