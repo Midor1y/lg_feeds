@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-07-13 15:21">
+<yml_catalog date="2026-07-13 17:29">
   <shop>
     <name>LG Electronics Kazakhstan</name>
     <company>LG Electronics</company>
@@ -29,6 +29,24 @@
         <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/nano-4k-uhd/nu85/gp1/gallery/50-nu85/basic/lg-nano-4k-uhd-nu85-2026-50-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
+      <offer id="47262" available="true">
+        <name>86-дюймовый телевизор Smart TV LG QNED evo AI QNED85 Mini LED 4K 2026</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/qned-evo/86qned85b6c/</url>
+        <price>1889989</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/qned-evo/qned85/gp1/gallery/86-qned85/basic/lg-qned-evo-qned85-2026-86-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="46615" available="true">
+        <name>50-дюймовый телевизор Smart TV LG NANO 4K UHD AI NU90 2026</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/nanocell/50nu900b6la/</url>
+        <price>299990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/nano-4k-uhd/nu85/gp1/gallery/50-nu85/basic/lg-nano-4k-uhd-nu85-2026-50-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
       <offer id="6906" available="true">
         <name>Звуковая панель S70TR LG для домашнего кинотеатра с поддержкой технологии Dolby Atmos, 5.1.1-канальным звуком и задними динамиками</name>
         <categoryId>1</categoryId>
@@ -45,51 +63,6 @@
         <price>799990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/oled-evo/c6/gp1/gallery/42-c6/basic/lg-oled-evo-c6-2026-42-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="47262" available="true">
-        <name>86-дюймовый телевизор Smart TV LG QNED evo AI QNED85 Mini LED 4K 2026</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/qned-evo/86qned85b6c/</url>
-        <price>1889989</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/qned-evo/qned85/gp1/gallery/86-qned85/basic/lg-qned-evo-qned85-2026-86-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="46614" available="true">
-        <name>43-дюймовый телевизор Smart TV LG NANO 4K UHD AI NU90 2026</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/nanocell/43nu900b6la/</url>
-        <price>249990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/nano-4k-uhd/nu85/gp1/gallery/43-nu85/basic/lg-nano-4k-uhd-nu85-2026-43-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="43508" available="true">
-        <name>77-дюймовый телевизор Smart TV LG OLED AI B6 4K 2026</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/oled/oled77b6rla/</url>
-        <price>2149990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/oled/b6/gp1/gallery/77-b6/gallery/450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="45560" available="true">
-        <name>77-дюймовый телевизор Smart TV LG OLED AI B6 4K 2026</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/oled/oled77b6rla/</url>
-        <price>2149990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/oled/b6/gp1/gallery/77-b6/gallery/450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="47955" available="true">
-        <name>83-дюймовый телевизор Smart TV LG OLED evo AI G6 4K 2026</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/oled-evo/oled83g6rla/</url>
-        <price>4999990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/oled-evo/g6/gp1/gallery/83-g6/basic/lg-oled-evo-g6-2026-83-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="43522" available="true">
@@ -119,15 +92,6 @@
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/2026-tvs/qned-evo/qned80/gallery/85-qned80/basic/lg-qned-evo-qned80-2026-85-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="47945" available="true">
-        <name>85-дюймовый телевизор Smart TV LG QNED evo AI QNED83 Mini LED 4K 2026</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/qned-evo/85qned83b6a/</url>
-        <price>1549990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/qned-evo/qned82/gp1/gallery/85-qned82/basic/lg-qned-evo-qned82-2026-85-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="43523" available="true">
         <name>86-дюймовый телевизор Smart TV LG Mini RGB evo AI MRGB86 4K 2026</name>
         <categoryId>1</categoryId>
@@ -146,6 +110,42 @@
         <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/mini-rgb-evo/mrgb85/gp1/gallery/86-mrgb85/basic/lg-mini-rgb-evo-mrgb85-2026-86-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
+      <offer id="47945" available="true">
+        <name>85-дюймовый телевизор Smart TV LG QNED evo AI QNED83 Mini LED 4K 2026</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/qned-evo/85qned83b6a/</url>
+        <price>1549990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/qned-evo/qned82/gp1/gallery/85-qned82/basic/lg-qned-evo-qned82-2026-85-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="43508" available="true">
+        <name>77-дюймовый телевизор Smart TV LG OLED AI B6 4K 2026</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/oled/oled77b6rla/</url>
+        <price>2149990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/oled/b6/gp1/gallery/77-b6/gallery/450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="45560" available="true">
+        <name>77-дюймовый телевизор Smart TV LG OLED AI B6 4K 2026</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/oled/oled77b6rla/</url>
+        <price>2149990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/oled/b6/gp1/gallery/77-b6/gallery/450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="47955" available="true">
+        <name>83-дюймовый телевизор Smart TV LG OLED evo AI G6 4K 2026</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/oled-evo/oled83g6rla/</url>
+        <price>4999990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/oled-evo/g6/gp1/gallery/83-g6/basic/lg-oled-evo-g6-2026-83-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
       <offer id="21521" available="true">
         <name>55 дюймовый телевизор LG UHD AI UA73 4k Smart TV 2025</name>
         <categoryId>1</categoryId>
@@ -153,6 +153,168 @@
         <price>274990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/uhd/ua73/gp1/gallery/55-ua73-a/basic/uhd-ua73-2025-55-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="14118" available="false">
+        <name>86 дюймовый телевизор Smart TV LG UHD AI UA75 4K 2025 года</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/4k-uhd-tvs/86ua75009la/</url>
+        <price>799990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/uhd/ua75/gp1/gallery/86-ua75-a/basic/uhd-ua75-2025-86-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="16550" available="false">
+        <name>86 дюймовый телевизор Smart TV LG UHD AI UA75 4K 2025 года</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/4k-uhd-tvs/86ua75009la/</url>
+        <price>799990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/uhd/ua75/gp1/gallery/86-ua75-a/basic/uhd-ua75-2025-86-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="19942" available="false">
+        <name>86 дюймовый телевизор Smart TV LG UHD AI UA75 4K 2025 года</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/4k-uhd-tvs/86ua75009la/</url>
+        <price>799990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/uhd/ua75/gp1/gallery/86-ua75-a/basic/uhd-ua75-2025-86-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="11006" available="false">
+        <name>86 дюймовый телевизор Smart TV LG NanoCell AI NANO81 4K 2025 года</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/nanocell/86nano81a6a/</url>
+        <price>849990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/nanocell/nano80/gp1/gallery/86-nano80-a/gallery/QNED_BASIC_450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="16552" available="false">
+        <name>86 дюймовый телевизор Smart TV LG NanoCell AI NANO81 4K 2025 года</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/nanocell/86nano81a6a/</url>
+        <price>849990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/nanocell/nano80/gp1/gallery/86-nano80-a/gallery/QNED_BASIC_450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="19940" available="false">
+        <name>86 дюймовый телевизор Smart TV LG NanoCell AI NANO81 4K 2025 года</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/nanocell/86nano81a6a/</url>
+        <price>849990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/nanocell/nano80/gp1/gallery/86-nano80-a/gallery/QNED_BASIC_450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="22257" available="false">
+        <name>86 дюймовый телевизор Smart TV LG QNED AI QNED70 4K 2025 года</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/qned/86qned70a6a/</url>
+        <price>899990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned70/gp1/gallery/86-qned70-a/basic/qned-qned70-2025-86-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="11004" available="false">
+        <name>75 дюймовый телевизор Smart TV LG NanoCell AI NANO80 4K 2025 года</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/nanocell/75nano80a6b/</url>
+        <price>589990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/nanocell/nano80/gp1/gallery/75-nano80-a/basic/nanocell-nano80-2025-75-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="16542" available="false">
+        <name>75 дюймовый телевизор Smart TV LG NanoCell AI NANO80 4K 2025 года</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/nanocell/75nano80a6b/</url>
+        <price>589990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/nanocell/nano80/gp1/gallery/75-nano80-a/basic/nanocell-nano80-2025-75-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="19959" available="false">
+        <name>75 дюймовый телевизор Smart TV LG NanoCell AI NANO80 4K 2025 года</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/nanocell/75nano80a6b/</url>
+        <price>589990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/nanocell/nano80/gp1/gallery/75-nano80-a/basic/nanocell-nano80-2025-75-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="10382" available="false">
+        <name>86 дюймовый телевизор Smart TV LG QNED AI QNED82 4K 2025 года</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/qned/86qned82a6b/</url>
+        <price>1249990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned82/gp1/gallery/86-qned82-a/basic/qned-qned82-2025-86-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="10757" available="false">
+        <name>86 дюймовый телевизор Smart TV LG QNED AI QNED82 4K 2025 года</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/qned/86qned82a6b/</url>
+        <price>1249990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned82/gp1/gallery/86-qned82-a/basic/qned-qned82-2025-86-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="16553" available="false">
+        <name>86 дюймовый телевизор Smart TV LG QNED AI QNED82 4K 2025 года</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/qned/86qned82a6b/</url>
+        <price>1249990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned82/gp1/gallery/86-qned82-a/basic/qned-qned82-2025-86-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="19952" available="false">
+        <name>86 дюймовый телевизор Smart TV LG QNED AI QNED82 4K 2025 года</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/qned/86qned82a6b/</url>
+        <price>1249990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned82/gp1/gallery/86-qned82-a/basic/qned-qned82-2025-86-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="14271" available="false">
+        <name>100 дюймовый LG QNED evo AI QNED86 MiniLED 4K Телевизор Smart TV 2025</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/qned/100qned86a6/</url>
+        <price>2599990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned-evo/qned85/gp1/gallery/resized-main_image/100-450-Z.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="16554" available="false">
+        <name>100 дюймовый LG QNED evo AI QNED86 MiniLED 4K Телевизор Smart TV 2025</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/qned/100qned86a6/</url>
+        <price>2599990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned-evo/qned85/gp1/gallery/resized-main_image/100-450-Z.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="19936" available="false">
+        <name>100 дюймовый LG QNED evo AI QNED86 MiniLED 4K Телевизор Smart TV 2025</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/qned/100qned86a6/</url>
+        <price>2599990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned-evo/qned85/gp1/gallery/resized-main_image/100-450-Z.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="6510" available="false">
+        <name>Телевизор LG LED FHD SMART 43LM5772PLA</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/smart-tvs/43lm5772pla/</url>
+        <price>179990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/tv-audio-video/43lm5772pla/basic-450-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="10379" available="false">
@@ -245,166 +407,166 @@
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/oled-evo/c5/gp1/gallery/c5/83-c5-a/basic/oled-c5-2025-83-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="10382" available="false">
-        <name>86 дюймовый телевизор Smart TV LG QNED AI QNED82 4K 2025 года</name>
+      <offer id="13308" available="false">
+        <name>86 дюймовый телевизор Smart TV LG QNED AI QNED80 4K 2025 года</name>
         <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/qned/86qned82a6b/</url>
-        <price>1249990</price>
+        <url>https://www.lg.com/kz/tvs-soundbars/qned/86qned80a6a/</url>
+        <price>1199990</price>
         <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned82/gp1/gallery/86-qned82-a/basic/qned-qned82-2025-86-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned80/gp1/gallery/qned80/86-qned80-a/gallery-/qned-qned80-2025-86-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="10757" available="false">
-        <name>86 дюймовый телевизор Smart TV LG QNED AI QNED82 4K 2025 года</name>
+      <offer id="16548" available="false">
+        <name>86 дюймовый телевизор Smart TV LG QNED AI QNED80 4K 2025 года</name>
         <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/qned/86qned82a6b/</url>
-        <price>1249990</price>
+        <url>https://www.lg.com/kz/tvs-soundbars/qned/86qned80a6a/</url>
+        <price>1199990</price>
         <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned82/gp1/gallery/86-qned82-a/basic/qned-qned82-2025-86-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned80/gp1/gallery/qned80/86-qned80-a/gallery-/qned-qned80-2025-86-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="16553" available="false">
-        <name>86 дюймовый телевизор Smart TV LG QNED AI QNED82 4K 2025 года</name>
+      <offer id="19939" available="false">
+        <name>86 дюймовый телевизор Smart TV LG QNED AI QNED80 4K 2025 года</name>
         <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/qned/86qned82a6b/</url>
-        <price>1249990</price>
+        <url>https://www.lg.com/kz/tvs-soundbars/qned/86qned80a6a/</url>
+        <price>1199990</price>
         <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned82/gp1/gallery/86-qned82-a/basic/qned-qned82-2025-86-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned80/gp1/gallery/qned80/86-qned80-a/gallery-/qned-qned80-2025-86-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="19952" available="false">
-        <name>86 дюймовый телевизор Smart TV LG QNED AI QNED82 4K 2025 года</name>
+      <offer id="10388" available="false">
+        <name>50 дюймовый телевизор Smart TV LG QNED AI QNED80 4K 2025 года</name>
         <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/qned/86qned82a6b/</url>
-        <price>1249990</price>
+        <url>https://www.lg.com/kz/tvs-soundbars/qned/50qned80a6a/</url>
+        <price>349990</price>
         <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned82/gp1/gallery/86-qned82-a/basic/qned-qned82-2025-86-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned80/gp1/gallery/qned80/50-qned80-a/gallery-/qned-qned80-2025-50-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="22257" available="false">
-        <name>86 дюймовый телевизор Smart TV LG QNED AI QNED70 4K 2025 года</name>
+      <offer id="10741" available="false">
+        <name>50 дюймовый телевизор Smart TV LG QNED AI QNED80 4K 2025 года</name>
         <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/qned/86qned70a6a/</url>
-        <price>899990</price>
+        <url>https://www.lg.com/kz/tvs-soundbars/qned/50qned80a6a/</url>
+        <price>349990</price>
         <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned70/gp1/gallery/86-qned70-a/basic/qned-qned70-2025-86-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned80/gp1/gallery/qned80/50-qned80-a/gallery-/qned-qned80-2025-50-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="14118" available="false">
-        <name>86 дюймовый телевизор Smart TV LG UHD AI UA75 4K 2025 года</name>
+      <offer id="16534" available="false">
+        <name>50 дюймовый телевизор Smart TV LG QNED AI QNED80 4K 2025 года</name>
         <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/4k-uhd-tvs/86ua75009la/</url>
-        <price>799990</price>
+        <url>https://www.lg.com/kz/tvs-soundbars/qned/50qned80a6a/</url>
+        <price>349990</price>
         <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/uhd/ua75/gp1/gallery/86-ua75-a/basic/uhd-ua75-2025-86-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned80/gp1/gallery/qned80/50-qned80-a/gallery-/qned-qned80-2025-50-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="16550" available="false">
-        <name>86 дюймовый телевизор Smart TV LG UHD AI UA75 4K 2025 года</name>
+      <offer id="19932" available="false">
+        <name>50 дюймовый телевизор Smart TV LG QNED AI QNED80 4K 2025 года</name>
         <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/4k-uhd-tvs/86ua75009la/</url>
-        <price>799990</price>
+        <url>https://www.lg.com/kz/tvs-soundbars/qned/50qned80a6a/</url>
+        <price>349990</price>
         <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/uhd/ua75/gp1/gallery/86-ua75-a/basic/uhd-ua75-2025-86-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned80/gp1/gallery/qned80/50-qned80-a/gallery-/qned-qned80-2025-50-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="19942" available="false">
-        <name>86 дюймовый телевизор Smart TV LG UHD AI UA75 4K 2025 года</name>
+      <offer id="10385" available="false">
+        <name>75 дюймовый телевизор Smart TV LG QNED AI QNED80 4K 2025 года</name>
         <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/4k-uhd-tvs/86ua75009la/</url>
-        <price>799990</price>
+        <url>https://www.lg.com/kz/tvs-soundbars/qned/75qned80a6a/</url>
+        <price>729990</price>
         <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/uhd/ua75/gp1/gallery/86-ua75-a/basic/uhd-ua75-2025-86-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned80/gp1/gallery/qned80/75-qned80-a/basic/qned-qned80-2025-75-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="11006" available="false">
-        <name>86 дюймовый телевизор Smart TV LG NanoCell AI NANO81 4K 2025 года</name>
+      <offer id="10746" available="false">
+        <name>75 дюймовый телевизор Smart TV LG QNED AI QNED80 4K 2025 года</name>
         <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/nanocell/86nano81a6a/</url>
-        <price>849990</price>
+        <url>https://www.lg.com/kz/tvs-soundbars/qned/75qned80a6a/</url>
+        <price>729990</price>
         <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/nanocell/nano80/gp1/gallery/86-nano80-a/gallery/QNED_BASIC_450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned80/gp1/gallery/qned80/75-qned80-a/basic/qned-qned80-2025-75-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="16552" available="false">
-        <name>86 дюймовый телевизор Smart TV LG NanoCell AI NANO81 4K 2025 года</name>
+      <offer id="19927" available="false">
+        <name>75 дюймовый телевизор Smart TV LG QNED AI QNED80 4K 2025 года</name>
         <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/nanocell/86nano81a6a/</url>
-        <price>849990</price>
+        <url>https://www.lg.com/kz/tvs-soundbars/qned/75qned80a6a/</url>
+        <price>729990</price>
         <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/nanocell/nano80/gp1/gallery/86-nano80-a/gallery/QNED_BASIC_450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned80/gp1/gallery/qned80/75-qned80-a/basic/qned-qned80-2025-75-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="19940" available="false">
-        <name>86 дюймовый телевизор Smart TV LG NanoCell AI NANO81 4K 2025 года</name>
+      <offer id="13308" available="false">
+        <name>86 дюймовый телевизор Smart TV LG QNED AI QNED80 4K 2025 года</name>
         <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/nanocell/86nano81a6a/</url>
-        <price>849990</price>
+        <url>https://www.lg.com/kz/tvs-soundbars/qned/86qned80a6a/</url>
+        <price>1199990</price>
         <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/nanocell/nano80/gp1/gallery/86-nano80-a/gallery/QNED_BASIC_450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned80/gp1/gallery/qned80/86-qned80-a/gallery-/qned-qned80-2025-86-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="11004" available="false">
-        <name>75 дюймовый телевизор Smart TV LG NanoCell AI NANO80 4K 2025 года</name>
+      <offer id="16548" available="false">
+        <name>86 дюймовый телевизор Smart TV LG QNED AI QNED80 4K 2025 года</name>
         <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/nanocell/75nano80a6b/</url>
-        <price>589990</price>
+        <url>https://www.lg.com/kz/tvs-soundbars/qned/86qned80a6a/</url>
+        <price>1199990</price>
         <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/nanocell/nano80/gp1/gallery/75-nano80-a/basic/nanocell-nano80-2025-75-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned80/gp1/gallery/qned80/86-qned80-a/gallery-/qned-qned80-2025-86-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="16542" available="false">
-        <name>75 дюймовый телевизор Smart TV LG NanoCell AI NANO80 4K 2025 года</name>
+      <offer id="19939" available="false">
+        <name>86 дюймовый телевизор Smart TV LG QNED AI QNED80 4K 2025 года</name>
         <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/nanocell/75nano80a6b/</url>
-        <price>589990</price>
+        <url>https://www.lg.com/kz/tvs-soundbars/qned/86qned80a6a/</url>
+        <price>1199990</price>
         <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/nanocell/nano80/gp1/gallery/75-nano80-a/basic/nanocell-nano80-2025-75-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned80/gp1/gallery/qned80/86-qned80-a/gallery-/qned-qned80-2025-86-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="19959" available="false">
-        <name>75 дюймовый телевизор Smart TV LG NanoCell AI NANO80 4K 2025 года</name>
+      <offer id="10388" available="false">
+        <name>50 дюймовый телевизор Smart TV LG QNED AI QNED80 4K 2025 года</name>
         <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/nanocell/75nano80a6b/</url>
-        <price>589990</price>
+        <url>https://www.lg.com/kz/tvs-soundbars/qned/50qned80a6a/</url>
+        <price>349990</price>
         <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/nanocell/nano80/gp1/gallery/75-nano80-a/basic/nanocell-nano80-2025-75-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned80/gp1/gallery/qned80/50-qned80-a/gallery-/qned-qned80-2025-50-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="14271" available="false">
-        <name>100 дюймовый LG QNED evo AI QNED86 MiniLED 4K Телевизор Smart TV 2025</name>
+      <offer id="10741" available="false">
+        <name>50 дюймовый телевизор Smart TV LG QNED AI QNED80 4K 2025 года</name>
         <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/qned/100qned86a6/</url>
-        <price>2599990</price>
+        <url>https://www.lg.com/kz/tvs-soundbars/qned/50qned80a6a/</url>
+        <price>349990</price>
         <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned-evo/qned85/gp1/gallery/resized-main_image/100-450-Z.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned80/gp1/gallery/qned80/50-qned80-a/gallery-/qned-qned80-2025-50-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="16554" available="false">
-        <name>100 дюймовый LG QNED evo AI QNED86 MiniLED 4K Телевизор Smart TV 2025</name>
+      <offer id="16534" available="false">
+        <name>50 дюймовый телевизор Smart TV LG QNED AI QNED80 4K 2025 года</name>
         <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/qned/100qned86a6/</url>
-        <price>2599990</price>
+        <url>https://www.lg.com/kz/tvs-soundbars/qned/50qned80a6a/</url>
+        <price>349990</price>
         <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned-evo/qned85/gp1/gallery/resized-main_image/100-450-Z.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned80/gp1/gallery/qned80/50-qned80-a/gallery-/qned-qned80-2025-50-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="19936" available="false">
-        <name>100 дюймовый LG QNED evo AI QNED86 MiniLED 4K Телевизор Smart TV 2025</name>
+      <offer id="19932" available="false">
+        <name>50 дюймовый телевизор Smart TV LG QNED AI QNED80 4K 2025 года</name>
         <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/qned/100qned86a6/</url>
-        <price>2599990</price>
+        <url>https://www.lg.com/kz/tvs-soundbars/qned/50qned80a6a/</url>
+        <price>349990</price>
         <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned-evo/qned85/gp1/gallery/resized-main_image/100-450-Z.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned80/gp1/gallery/qned80/50-qned80-a/gallery-/qned-qned80-2025-50-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="6510" available="false">
-        <name>Телевизор LG LED FHD SMART 43LM5772PLA</name>
+      <offer id="10989" available="false">
+        <name>43 дюймовый телевизор Smart TV LG QNED AI QNED80 4K 2025 года</name>
         <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/smart-tvs/43lm5772pla/</url>
-        <price>179990</price>
+        <url>https://www.lg.com/kz/tvs-soundbars/qned/43qned80a6a/</url>
+        <price>299990</price>
         <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/tv-audio-video/43lm5772pla/basic-450-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned80/gp1/gallery/qned80/43-qned80-a/gallery-/qned-qned80-2025-43-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="6912" available="false">
@@ -459,168 +621,6 @@
         <price>2299990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/oled-evo/m5-evo/gp1/gallery/77-m5-a/animation/oled-m5-2025-77-animation-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="13308" available="false">
-        <name>86 дюймовый телевизор Smart TV LG QNED AI QNED80 4K 2025 года</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/qned/86qned80a6a/</url>
-        <price>1199990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned80/gp1/gallery/qned80/86-qned80-a/gallery-/qned-qned80-2025-86-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="16548" available="false">
-        <name>86 дюймовый телевизор Smart TV LG QNED AI QNED80 4K 2025 года</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/qned/86qned80a6a/</url>
-        <price>1199990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned80/gp1/gallery/qned80/86-qned80-a/gallery-/qned-qned80-2025-86-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="19939" available="false">
-        <name>86 дюймовый телевизор Smart TV LG QNED AI QNED80 4K 2025 года</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/qned/86qned80a6a/</url>
-        <price>1199990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned80/gp1/gallery/qned80/86-qned80-a/gallery-/qned-qned80-2025-86-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="10384" available="false">
-        <name>65 дюймовый телевизор Smart TV LG QNED AI QNED80 4K 2025 года</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/qned/65qned80a6a/</url>
-        <price>509990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned80/gp1/gallery/qned80/65-qned80-a/basic/qned-qned80-2025-65-basic-01V.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="10758" available="false">
-        <name>65 дюймовый телевизор Smart TV LG QNED AI QNED80 4K 2025 года</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/qned/65qned80a6a/</url>
-        <price>509990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned80/gp1/gallery/qned80/65-qned80-a/basic/qned-qned80-2025-65-basic-01V.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="16540" available="false">
-        <name>65 дюймовый телевизор Smart TV LG QNED AI QNED80 4K 2025 года</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/qned/65qned80a6a/</url>
-        <price>509990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned80/gp1/gallery/qned80/65-qned80-a/basic/qned-qned80-2025-65-basic-01V.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="10385" available="false">
-        <name>75 дюймовый телевизор Smart TV LG QNED AI QNED80 4K 2025 года</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/qned/75qned80a6a/</url>
-        <price>729990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned80/gp1/gallery/qned80/75-qned80-a/basic/qned-qned80-2025-75-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="10746" available="false">
-        <name>75 дюймовый телевизор Smart TV LG QNED AI QNED80 4K 2025 года</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/qned/75qned80a6a/</url>
-        <price>729990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned80/gp1/gallery/qned80/75-qned80-a/basic/qned-qned80-2025-75-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="19927" available="false">
-        <name>75 дюймовый телевизор Smart TV LG QNED AI QNED80 4K 2025 года</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/qned/75qned80a6a/</url>
-        <price>729990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned80/gp1/gallery/qned80/75-qned80-a/basic/qned-qned80-2025-75-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="10388" available="false">
-        <name>50 дюймовый телевизор Smart TV LG QNED AI QNED80 4K 2025 года</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/qned/50qned80a6a/</url>
-        <price>349990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned80/gp1/gallery/qned80/50-qned80-a/gallery-/qned-qned80-2025-50-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="10741" available="false">
-        <name>50 дюймовый телевизор Smart TV LG QNED AI QNED80 4K 2025 года</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/qned/50qned80a6a/</url>
-        <price>349990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned80/gp1/gallery/qned80/50-qned80-a/gallery-/qned-qned80-2025-50-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="16534" available="false">
-        <name>50 дюймовый телевизор Smart TV LG QNED AI QNED80 4K 2025 года</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/qned/50qned80a6a/</url>
-        <price>349990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned80/gp1/gallery/qned80/50-qned80-a/gallery-/qned-qned80-2025-50-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="19932" available="false">
-        <name>50 дюймовый телевизор Smart TV LG QNED AI QNED80 4K 2025 года</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/qned/50qned80a6a/</url>
-        <price>349990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned80/gp1/gallery/qned80/50-qned80-a/gallery-/qned-qned80-2025-50-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="10989" available="false">
-        <name>43 дюймовый телевизор Smart TV LG QNED AI QNED80 4K 2025 года</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/qned/43qned80a6a/</url>
-        <price>299990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned80/gp1/gallery/qned80/43-qned80-a/gallery-/qned-qned80-2025-43-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="10377" available="false">
-        <name>55 дюймовый телевизор Smart TV LG QNED AI QNED80 4K 2025 года</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/qned/55qned80a6a/</url>
-        <price>384990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned80/gp1/gallery/qned80/55-qned80-a/animation/qned-qned80-2025-55-animation-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="10754" available="false">
-        <name>55 дюймовый телевизор Smart TV LG QNED AI QNED80 4K 2025 года</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/qned/55qned80a6a/</url>
-        <price>384990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned80/gp1/gallery/qned80/55-qned80-a/animation/qned-qned80-2025-55-animation-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="16536" available="false">
-        <name>55 дюймовый телевизор Smart TV LG QNED AI QNED80 4K 2025 года</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/qned/55qned80a6a/</url>
-        <price>384990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned80/gp1/gallery/qned80/55-qned80-a/animation/qned-qned80-2025-55-animation-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="19945" available="false">
-        <name>55 дюймовый телевизор Smart TV LG QNED AI QNED80 4K 2025 года</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/qned/55qned80a6a/</url>
-        <price>384990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned80/gp1/gallery/qned80/55-qned80-a/animation/qned-qned80-2025-55-animation-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="15769" available="false">
@@ -1405,6 +1405,15 @@ LG Side-by-Side 617л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-pdp/f2y1ws3w/resized-gallery/Basic-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
+      <offer id="51441" available="true">
+        <name>Стиральная машина + Сушка LG WashTower, AI DD™ 13/10 кг</name>
+        <categoryId>4</categoryId>
+        <url>https://www.lg.com/kz/laundry/objet-collection-washtower/w4w8lvpkwhm/</url>
+        <price>1129990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-pdp/w4w8lvpkwhm-abwpqom/gallery-w4w8lvpkwhm/resize-gallery/basic_02.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
       <offer id="9039" available="true">
         <name>Стиральная машина LG 7 кг - DD™ | Steam™</name>
         <categoryId>4</categoryId>
@@ -1439,15 +1448,6 @@ LG Side-by-Side 617л</name>
         <price>179990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/washing-machines/f2y1ns6w/gallery/basic-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="51441" available="true">
-        <name>Стиральная машина + Сушка LG WashTower, AI DD™ 13/10 кг</name>
-        <categoryId>4</categoryId>
-        <url>https://www.lg.com/kz/laundry/objet-collection-washtower/w4w8lvpkwhm/</url>
-        <price>1129990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-pdp/w4w8lvpkwhm-abwpqom/gallery-w4w8lvpkwhm/resize-gallery/basic_02.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="51443" available="true">
@@ -4087,6 +4087,60 @@ LG Side-by-Side 617л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/vacuum-cleaners/vc83209uha_abrqcis_erok_kz_c/vc83209uha-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
+      <offer id="5716" available="false">
+        <name>Беспроводной пылесос LG CordZero™ A9K-PRO1 Kompressor™, 200 Вт</name>
+        <categoryId>5</categoryId>
+        <url>https://www.lg.com/kz/vacuum-cleaners/cordless-vacuum-cleaners/a9k-pro1/</url>
+        <price>269990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/vacuum-cleaners/a9k-pro1_bfsqcis_erok_kz_c/A9K-PRO1_BFSQCIS_EROK_KZ_C-350x350.jpg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="5850" available="false">
+        <name>Беспроводной пылесос LG CordZero™ A9N-CORE , 160 Вт</name>
+        <categoryId>5</categoryId>
+        <url>https://www.lg.com/kz/vacuum-cleaners/cordless-vacuum-cleaners/a9n-core/</url>
+        <price>179990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/vacuum-cleaners/a9n-core_bfsqcis_eeak_kz_c/A9N-CORE_BFSQCIS_EEAK_KZ_C-450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="5715" available="false">
+        <name>Беспроводной пылесос LG CordZero™ A9K-MAX1 Kompressor™, 200 Вт</name>
+        <categoryId>5</categoryId>
+        <url>https://www.lg.com/kz/vacuum-cleaners/cordless-vacuum-cleaners/a9k-max1/</url>
+        <price>299990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/vacuum-cleaners/a9k-max1_bbbqcis_eeak_kz_c/A9K-MAX1_BBBQCIS_EEAK_KZ_C-350x350.jpg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="34435" available="false">
+        <name>Беспроводной пылесос LG CordZero™ A9L-SLIM, 150 Вт</name>
+        <categoryId>5</categoryId>
+        <url>https://www.lg.com/kz/vacuum-cleaners/cordless-vacuum-cleaners/a9lslim/</url>
+        <price>119990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/vcc/a9-air/gallery/01-basic/450-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="5716" available="false">
+        <name>Беспроводной пылесос LG CordZero™ A9K-PRO1 Kompressor™, 200 Вт</name>
+        <categoryId>5</categoryId>
+        <url>https://www.lg.com/kz/vacuum-cleaners/cordless-vacuum-cleaners/a9k-pro1/</url>
+        <price>269990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/vacuum-cleaners/a9k-pro1_bfsqcis_erok_kz_c/A9K-PRO1_BFSQCIS_EROK_KZ_C-350x350.jpg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="5880" available="false">
+        <name>Беспроводной пылесос LG CordZero™ A9K-CORE Kompressor™, 200 Вт</name>
+        <categoryId>5</categoryId>
+        <url>https://www.lg.com/kz/vacuum-cleaners/cordless-vacuum-cleaners/a9k-core/</url>
+        <price>234990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/vcc/a9k-core/basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
       <offer id="5854" available="false">
         <name>Пылесос с системой прессования пыли Kompressor, VC73189NHTB, 380 Вт</name>
         <categoryId>5</categoryId>
@@ -4139,60 +4193,6 @@ LG Side-by-Side 617л</name>
         <price>124990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/vacuum-cleaners/vc83209uhav_aigqcis_erok_kz_c/VC83209UHAV_AIGQCIS_EROK_KZ_C-350x350.jpg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="5850" available="false">
-        <name>Беспроводной пылесос LG CordZero™ A9N-CORE , 160 Вт</name>
-        <categoryId>5</categoryId>
-        <url>https://www.lg.com/kz/vacuum-cleaners/cordless-vacuum-cleaners/a9n-core/</url>
-        <price>179990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/vacuum-cleaners/a9n-core_bfsqcis_eeak_kz_c/A9N-CORE_BFSQCIS_EEAK_KZ_C-450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="5717" available="false">
-        <name>Беспроводной пылесос LG CordZero™ A9N-PRIME, 160 Вт</name>
-        <categoryId>5</categoryId>
-        <url>https://www.lg.com/kz/vacuum-cleaners/cordless-vacuum-cleaners/a9n-prime/</url>
-        <price>149990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/vacuum-cleaners/a9n-prime_bbwqcis_eeak_kz_c/A9N-PRIME_BBWQCIS_EEAK_KZ_C-450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="5716" available="false">
-        <name>Беспроводной пылесос LG CordZero™ A9K-PRO1 Kompressor™, 200 Вт</name>
-        <categoryId>5</categoryId>
-        <url>https://www.lg.com/kz/vacuum-cleaners/cordless-vacuum-cleaners/a9k-pro1/</url>
-        <price>269990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/vacuum-cleaners/a9k-pro1_bfsqcis_erok_kz_c/A9K-PRO1_BFSQCIS_EROK_KZ_C-350x350.jpg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="5880" available="false">
-        <name>Беспроводной пылесос LG CordZero™ A9K-CORE Kompressor™, 200 Вт</name>
-        <categoryId>5</categoryId>
-        <url>https://www.lg.com/kz/vacuum-cleaners/cordless-vacuum-cleaners/a9k-core/</url>
-        <price>234990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/vcc/a9k-core/basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="34435" available="false">
-        <name>Беспроводной пылесос LG CordZero™ A9L-SLIM, 150 Вт</name>
-        <categoryId>5</categoryId>
-        <url>https://www.lg.com/kz/vacuum-cleaners/cordless-vacuum-cleaners/a9lslim/</url>
-        <price>119990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/vcc/a9-air/gallery/01-basic/450-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="5715" available="false">
-        <name>Беспроводной пылесос LG CordZero™ A9K-MAX1 Kompressor™, 200 Вт</name>
-        <categoryId>5</categoryId>
-        <url>https://www.lg.com/kz/vacuum-cleaners/cordless-vacuum-cleaners/a9k-max1/</url>
-        <price>299990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/vacuum-cleaners/a9k-max1_bbbqcis_eeak_kz_c/A9K-MAX1_BBBQCIS_EEAK_KZ_C-350x350.jpg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="6509" available="false">
@@ -4465,6 +4465,60 @@ LG Side-by-Side 617л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/rac/shared/2025-rac/dc09rh/gallery/U03_md07530262-450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
+      <offer id="5946" available="true">
+        <name>Кондиционер LG ARTCOOL Mirror, AC24BK | до 72 м²</name>
+        <categoryId>8</categoryId>
+        <url>https://www.lg.com/kz/air-conditioner/ac24bk/</url>
+        <price>529990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/ac24bk_nskr_erok_kz_c/AC24BK_NSKR_EROK_KZ_C-350x350.jpg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="9852" available="true">
+        <name>Кондиционер LG ARTCOOL Mirror, AC24BK | до 72 м²</name>
+        <categoryId>8</categoryId>
+        <url>https://www.lg.com/kz/air-conditioner/ac24bk/</url>
+        <price>529990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/ac24bk_nskr_erok_kz_c/AC24BK_NSKR_EROK_KZ_C-350x350.jpg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="9853" available="true">
+        <name>Кондиционер LG ARTCOOL Mirror, AC24BK | до 72 м²</name>
+        <categoryId>8</categoryId>
+        <url>https://www.lg.com/kz/air-conditioner/ac24bk/</url>
+        <price>529990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/ac24bk_nskr_erok_kz_c/AC24BK_NSKR_EROK_KZ_C-350x350.jpg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="5947" available="true">
+        <name>Кондиционер LG DUALCOOL с функцией очистителя воздуха, AP09RK | до 27 м²</name>
+        <categoryId>8</categoryId>
+        <url>https://www.lg.com/kz/air-conditioner/ap09rk/</url>
+        <price>307990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/ap09rk_nsjr_eeak_kz_c/AP09RK_NSJR_EEAK_KZ_C-350x350.jpg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="13783" available="true">
+        <name>Кондиционер LG DUALCOOL с функцией очистителя воздуха, AP09RK | до 27 м²</name>
+        <categoryId>8</categoryId>
+        <url>https://www.lg.com/kz/air-conditioner/ap09rk/</url>
+        <price>307990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/ap09rk_nsjr_eeak_kz_c/AP09RK_NSJR_EEAK_KZ_C-350x350.jpg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="13788" available="true">
+        <name>Кондиционер LG DUALCOOL с функцией очистителя воздуха, AP09RK | до 27 м²</name>
+        <categoryId>8</categoryId>
+        <url>https://www.lg.com/kz/air-conditioner/ap09rk/</url>
+        <price>307990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/ap09rk_nsjr_eeak_kz_c/AP09RK_NSJR_EEAK_KZ_C-350x350.jpg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
       <offer id="9982" available="true">
         <name>Кондиционер LG AI Deluxe H09S1D | до 27 м²</name>
         <categoryId>8</categoryId>
@@ -4564,114 +4618,6 @@ LG Side-by-Side 617л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/rac/shared/dualcool-inverter-pro-/gallery/basic/lg-single-split-inverter-air-conditioner-ot-2025-s3nw12tzxba-gallery-basic-large.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="5946" available="true">
-        <name>Кондиционер LG ARTCOOL Mirror, AC24BK | до 72 м²</name>
-        <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/ac24bk/</url>
-        <price>529990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/ac24bk_nskr_erok_kz_c/AC24BK_NSKR_EROK_KZ_C-350x350.jpg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="9852" available="true">
-        <name>Кондиционер LG ARTCOOL Mirror, AC24BK | до 72 м²</name>
-        <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/ac24bk/</url>
-        <price>529990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/ac24bk_nskr_erok_kz_c/AC24BK_NSKR_EROK_KZ_C-350x350.jpg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="9853" available="true">
-        <name>Кондиционер LG ARTCOOL Mirror, AC24BK | до 72 м²</name>
-        <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/ac24bk/</url>
-        <price>529990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/ac24bk_nskr_erok_kz_c/AC24BK_NSKR_EROK_KZ_C-350x350.jpg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="5952" available="true">
-        <name>Кондиционер LG B24TS DUALCOOL Dual Inverter | LG KZ</name>
-        <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/b24ts-ssk4/</url>
-        <price>434990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/b18ts_nsk_erok_kz_c/B18TS_NSK_EROK_KZ_C-450x450-v1.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="9974" available="true">
-        <name>Кондиционер LG B24TS DUALCOOL Dual Inverter | LG KZ</name>
-        <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/b24ts-ssk4/</url>
-        <price>434990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/b18ts_nsk_erok_kz_c/B18TS_NSK_EROK_KZ_C-450x450-v1.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="10095" available="true">
-        <name>Кондиционер LG B24TS DUALCOOL Dual Inverter | LG KZ</name>
-        <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/b24ts-ssk4/</url>
-        <price>434990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/b18ts_nsk_erok_kz_c/B18TS_NSK_EROK_KZ_C-450x450-v1.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="5947" available="true">
-        <name>Кондиционер LG DUALCOOL с функцией очистителя воздуха, AP09RK | до 27 м²</name>
-        <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/ap09rk/</url>
-        <price>307990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/ap09rk_nsjr_eeak_kz_c/AP09RK_NSJR_EEAK_KZ_C-350x350.jpg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="13783" available="true">
-        <name>Кондиционер LG DUALCOOL с функцией очистителя воздуха, AP09RK | до 27 м²</name>
-        <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/ap09rk/</url>
-        <price>307990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/ap09rk_nsjr_eeak_kz_c/AP09RK_NSJR_EEAK_KZ_C-350x350.jpg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="13788" available="true">
-        <name>Кондиционер LG DUALCOOL с функцией очистителя воздуха, AP09RK | до 27 м²</name>
-        <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/ap09rk/</url>
-        <price>307990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/ap09rk_nsjr_eeak_kz_c/AP09RK_NSJR_EEAK_KZ_C-350x350.jpg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="9981" available="false">
-        <name>Кондиционер LG DUALCOOL AI H12S1D | до 36 м²</name>
-        <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/h12s1d/</url>
-        <price>334990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/rac/shared/2025-rac/s1_deluxe_h/gallerys/basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="9984" available="false">
-        <name>Кондиционер LG DUALCOOL AI H12S1D | до 36 м²</name>
-        <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/h12s1d/</url>
-        <price>334990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/rac/shared/2025-rac/s1_deluxe_h/gallerys/basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="13796" available="false">
-        <name>Кондиционер LG DUALCOOL AI H12S1D | до 36 м²</name>
-        <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/h12s1d/</url>
-        <price>334990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/rac/shared/2025-rac/s1_deluxe_h/gallerys/basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="5951" available="false">
         <name>Кондиционер LG DUALCOOL инверторный, B18TS | до 54 м²</name>
         <categoryId>8</categoryId>
@@ -4699,40 +4645,31 @@ LG Side-by-Side 617л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/b18ts_nsk_erok_kz_c/B18TS_NSK_EROK_KZ_C-450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="41479" available="false">
-        <name>Кондиционер LG Inverter Pro | 27 м² | Охлаждение, обогрев</name>
+      <offer id="5952" available="false">
+        <name>Кондиционер LG B24TS DUALCOOL Dual Inverter | LG KZ</name>
         <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/wz09awn/</url>
-        <price>209990</price>
+        <url>https://www.lg.com/kz/air-conditioner/b24ts-ssk4/</url>
+        <price>434990</price>
         <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/rac/shared/dualcool-inverter-pro-/gallery/basic/lg-single-split-inverter-air-conditioner-ot-2025-s3nw12tzxba-gallery-basic-large.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/b18ts_nsk_erok_kz_c/B18TS_NSK_EROK_KZ_C-450x450-v1.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="5955" available="false">
-        <name>Кондиционер Mega Dual Plus | Технология Dual Inverter | до 36 м²</name>
+      <offer id="9974" available="false">
+        <name>Кондиционер LG B24TS DUALCOOL Dual Inverter | LG KZ</name>
         <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/d12tt/</url>
-        <price>259990</price>
+        <url>https://www.lg.com/kz/air-conditioner/b24ts-ssk4/</url>
+        <price>434990</price>
         <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/d09tt2_nsar_erok_kz_c/basic_450_new_image.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/b18ts_nsk_erok_kz_c/B18TS_NSK_EROK_KZ_C-450x450-v1.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="9977" available="false">
-        <name>Кондиционер Mega Dual Plus | Технология Dual Inverter | до 36 м²</name>
+      <offer id="10095" available="false">
+        <name>Кондиционер LG B24TS DUALCOOL Dual Inverter | LG KZ</name>
         <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/d12tt/</url>
-        <price>259990</price>
+        <url>https://www.lg.com/kz/air-conditioner/b24ts-ssk4/</url>
+        <price>434990</price>
         <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/d09tt2_nsar_erok_kz_c/basic_450_new_image.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="9980" available="false">
-        <name>Кондиционер Mega Dual Plus | Технология Dual Inverter | до 36 м²</name>
-        <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/d12tt/</url>
-        <price>259990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/d09tt2_nsar_erok_kz_c/basic_450_new_image.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/b18ts_nsk_erok_kz_c/B18TS_NSK_EROK_KZ_C-450x450-v1.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="5948" available="false">
@@ -4816,83 +4753,29 @@ LG Side-by-Side 617л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/ac09bk_nsjr_eeak_kz_c/AC09BK_NSJR_EEAK_KZ_C-450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="5949" available="false">
-        <name>Кондиционер LG DUALCOOL инверторный, B09TS | до 27 м²</name>
+      <offer id="5945" available="false">
+        <name>Кондиционер ARTCOOL Mirror | Технология Dual Inverter | до 36 м²</name>
         <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/b09ts/</url>
-        <price>249990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/b09ts_ssar_erok_kz_c/B09TS_SSAR_EROK_KZ_C-350x350.jpg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="13787" available="false">
-        <name>Кондиционер LG DUALCOOL инверторный, B09TS | до 27 м²</name>
-        <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/b09ts/</url>
-        <price>249990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/b09ts_ssar_erok_kz_c/B09TS_SSAR_EROK_KZ_C-350x350.jpg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="13792" available="false">
-        <name>Кондиционер LG DUALCOOL инверторный, B09TS | до 27 м²</name>
-        <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/b09ts/</url>
-        <price>249990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/b09ts_ssar_erok_kz_c/B09TS_SSAR_EROK_KZ_C-350x350.jpg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="13774" available="false">
-        <name>Кондиционер ARTCOOL Gallery Special A09GA1| до 25 м²</name>
-        <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/a09ga1/</url>
-        <price>619990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/rac/shared/2025-rac/ga1_artcool_a/gallery/rac-eu-s3nm09el16a-ga1-gp1-basic-large.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="13780" available="false">
-        <name>Кондиционер ARTCOOL Gallery Special A09GA1| до 25 м²</name>
-        <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/a09ga1/</url>
-        <price>619990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/rac/shared/2025-rac/ga1_artcool_a/gallery/rac-eu-s3nm09el16a-ga1-gp1-basic-large.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="13789" available="false">
-        <name>Кондиционер ARTCOOL Gallery Special A09GA1| до 25 м²</name>
-        <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/a09ga1/</url>
-        <price>619990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/rac/shared/2025-rac/ga1_artcool_a/gallery/rac-eu-s3nm09el16a-ga1-gp1-basic-large.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="5944" available="false">
-        <name>Кондиционер ARTCOOL Mirror | Технология Dual Inverter | до 27 м²</name>
-        <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/ac09bk/</url>
-        <price>369990</price>
+        <url>https://www.lg.com/kz/air-conditioner/ac12bk/</url>
+        <price>399990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/ac09bk_nsjr_eeak_kz_c/AC09BK_NSJR_EEAK_KZ_C-450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="9971" available="false">
-        <name>Кондиционер ARTCOOL Mirror | Технология Dual Inverter | до 27 м²</name>
+      <offer id="9969" available="false">
+        <name>Кондиционер ARTCOOL Mirror | Технология Dual Inverter | до 36 м²</name>
         <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/ac09bk/</url>
-        <price>369990</price>
+        <url>https://www.lg.com/kz/air-conditioner/ac12bk/</url>
+        <price>399990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/ac09bk_nsjr_eeak_kz_c/AC09BK_NSJR_EEAK_KZ_C-450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="9972" available="false">
-        <name>Кондиционер ARTCOOL Mirror | Технология Dual Inverter | до 27 м²</name>
+      <offer id="9970" available="false">
+        <name>Кондиционер ARTCOOL Mirror | Технология Dual Inverter | до 36 м²</name>
         <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/ac09bk/</url>
-        <price>369990</price>
+        <url>https://www.lg.com/kz/air-conditioner/ac12bk/</url>
+        <price>399990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/ac09bk_nsjr_eeak_kz_c/AC09BK_NSJR_EEAK_KZ_C-450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
@@ -4924,31 +4807,148 @@ LG Side-by-Side 617л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/a09ga2-nser-eeak-kz-c/gallery/rac-eu-s3nm09el26a-ga2-gp1-basic-large.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="5945" available="false">
-        <name>Кондиционер ARTCOOL Mirror | Технология Dual Inverter | до 36 м²</name>
+      <offer id="13774" available="false">
+        <name>Кондиционер ARTCOOL Gallery Special A09GA1| до 25 м²</name>
         <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/ac12bk/</url>
-        <price>399990</price>
+        <url>https://www.lg.com/kz/air-conditioner/a09ga1/</url>
+        <price>619990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/rac/shared/2025-rac/ga1_artcool_a/gallery/rac-eu-s3nm09el16a-ga1-gp1-basic-large.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="13780" available="false">
+        <name>Кондиционер ARTCOOL Gallery Special A09GA1| до 25 м²</name>
+        <categoryId>8</categoryId>
+        <url>https://www.lg.com/kz/air-conditioner/a09ga1/</url>
+        <price>619990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/rac/shared/2025-rac/ga1_artcool_a/gallery/rac-eu-s3nm09el16a-ga1-gp1-basic-large.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="13789" available="false">
+        <name>Кондиционер ARTCOOL Gallery Special A09GA1| до 25 м²</name>
+        <categoryId>8</categoryId>
+        <url>https://www.lg.com/kz/air-conditioner/a09ga1/</url>
+        <price>619990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/rac/shared/2025-rac/ga1_artcool_a/gallery/rac-eu-s3nm09el16a-ga1-gp1-basic-large.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="5949" available="false">
+        <name>Кондиционер LG DUALCOOL инверторный, B09TS | до 27 м²</name>
+        <categoryId>8</categoryId>
+        <url>https://www.lg.com/kz/air-conditioner/b09ts/</url>
+        <price>249990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/b09ts_ssar_erok_kz_c/B09TS_SSAR_EROK_KZ_C-350x350.jpg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="13787" available="false">
+        <name>Кондиционер LG DUALCOOL инверторный, B09TS | до 27 м²</name>
+        <categoryId>8</categoryId>
+        <url>https://www.lg.com/kz/air-conditioner/b09ts/</url>
+        <price>249990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/b09ts_ssar_erok_kz_c/B09TS_SSAR_EROK_KZ_C-350x350.jpg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="13792" available="false">
+        <name>Кондиционер LG DUALCOOL инверторный, B09TS | до 27 м²</name>
+        <categoryId>8</categoryId>
+        <url>https://www.lg.com/kz/air-conditioner/b09ts/</url>
+        <price>249990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/b09ts_ssar_erok_kz_c/B09TS_SSAR_EROK_KZ_C-350x350.jpg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="5944" available="false">
+        <name>Кондиционер ARTCOOL Mirror | Технология Dual Inverter | до 27 м²</name>
+        <categoryId>8</categoryId>
+        <url>https://www.lg.com/kz/air-conditioner/ac09bk/</url>
+        <price>369990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/ac09bk_nsjr_eeak_kz_c/AC09BK_NSJR_EEAK_KZ_C-450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="9969" available="false">
-        <name>Кондиционер ARTCOOL Mirror | Технология Dual Inverter | до 36 м²</name>
+      <offer id="9971" available="false">
+        <name>Кондиционер ARTCOOL Mirror | Технология Dual Inverter | до 27 м²</name>
         <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/ac12bk/</url>
-        <price>399990</price>
+        <url>https://www.lg.com/kz/air-conditioner/ac09bk/</url>
+        <price>369990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/ac09bk_nsjr_eeak_kz_c/AC09BK_NSJR_EEAK_KZ_C-450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="9970" available="false">
-        <name>Кондиционер ARTCOOL Mirror | Технология Dual Inverter | до 36 м²</name>
+      <offer id="9972" available="false">
+        <name>Кондиционер ARTCOOL Mirror | Технология Dual Inverter | до 27 м²</name>
         <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/ac12bk/</url>
-        <price>399990</price>
+        <url>https://www.lg.com/kz/air-conditioner/ac09bk/</url>
+        <price>369990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/ac09bk_nsjr_eeak_kz_c/AC09BK_NSJR_EEAK_KZ_C-450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="9981" available="false">
+        <name>Кондиционер LG DUALCOOL AI H12S1D | до 36 м²</name>
+        <categoryId>8</categoryId>
+        <url>https://www.lg.com/kz/air-conditioner/h12s1d/</url>
+        <price>334990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/rac/shared/2025-rac/s1_deluxe_h/gallerys/basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="9984" available="false">
+        <name>Кондиционер LG DUALCOOL AI H12S1D | до 36 м²</name>
+        <categoryId>8</categoryId>
+        <url>https://www.lg.com/kz/air-conditioner/h12s1d/</url>
+        <price>334990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/rac/shared/2025-rac/s1_deluxe_h/gallerys/basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="13796" available="false">
+        <name>Кондиционер LG DUALCOOL AI H12S1D | до 36 м²</name>
+        <categoryId>8</categoryId>
+        <url>https://www.lg.com/kz/air-conditioner/h12s1d/</url>
+        <price>334990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/rac/shared/2025-rac/s1_deluxe_h/gallerys/basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="5955" available="false">
+        <name>Кондиционер Mega Dual Plus | Технология Dual Inverter | до 36 м²</name>
+        <categoryId>8</categoryId>
+        <url>https://www.lg.com/kz/air-conditioner/d12tt/</url>
+        <price>259990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/d09tt2_nsar_erok_kz_c/basic_450_new_image.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="9977" available="false">
+        <name>Кондиционер Mega Dual Plus | Технология Dual Inverter | до 36 м²</name>
+        <categoryId>8</categoryId>
+        <url>https://www.lg.com/kz/air-conditioner/d12tt/</url>
+        <price>259990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/d09tt2_nsar_erok_kz_c/basic_450_new_image.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="9980" available="false">
+        <name>Кондиционер Mega Dual Plus | Технология Dual Inverter | до 36 м²</name>
+        <categoryId>8</categoryId>
+        <url>https://www.lg.com/kz/air-conditioner/d12tt/</url>
+        <price>259990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/d09tt2_nsar_erok_kz_c/basic_450_new_image.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="41479" available="false">
+        <name>Кондиционер LG Inverter Pro | 27 м² | Охлаждение, обогрев</name>
+        <categoryId>8</categoryId>
+        <url>https://www.lg.com/kz/air-conditioner/wz09awn/</url>
+        <price>209990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/rac/shared/dualcool-inverter-pro-/gallery/basic/lg-single-split-inverter-air-conditioner-ot-2025-s3nw12tzxba-gallery-basic-large.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="6191" available="true">
@@ -5005,15 +5005,6 @@ LG Side-by-Side 617л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/it-mnt-monitors/ultragear-gaming/27g610a-b/gallery/ultragear-gaming-27g610a-2025-gallery-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="40940" available="true">
-        <name>45-дюймовый игровой монитор LG UltraGear™ OLED Dual-Mode 5K2K | 0.03ms (GtG), Rich Bass (10Wx2), DisplayHDR True Black 400, DP 2.1 и USB-C + Logitech G Pro X Superlight 2 DEX</name>
-        <categoryId>9</categoryId>
-        <url>https://www.lg.com/kz/monitors/ultragear-gaming-oled/45gx950a-b/</url>
-        <price>1359990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/monitors-oled-promo/45gx950a-b/45GX950A-B.ARUZ_Logitech-G-Pro-X-Superlight-2-DEX-black_450x450px.png/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="47168" available="true">
         <name>34-дюймовый изогнутый (1800R) монитор LG UltraWide™ 34U620B WQHD 144Hz с HDR 10 и sRGB 99% (станд.)</name>
         <categoryId>9</categoryId>
@@ -5021,24 +5012,6 @@ LG Side-by-Side 617л</name>
         <price>169990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/it-mnt-monitors/ultra-wide/34u620b-b/gallery/ultrawide-34u620b-2026-gallery-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="21586" available="true">
-        <name>29-дюймовый сверхширокий IPS-дисплей с разрешением 21:9 WFHD (2560x1080) + Logitech Pebble Mouse 2</name>
-        <categoryId>9</categoryId>
-        <url>https://www.lg.com/kz/monitors/ultrawide/29u531a-w/</url>
-        <price>119990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/it-mnt-monitors/ultra-wide/29u531a-w/promo-mnt_29U531A_w_basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="33917" available="true">
-        <name>LG UltraGear™ GX7 27 дюймов Игровой монитор 240Hz OLED QHD |27GX704A | DisplayHDR™ True Black 400, 0.03ms (GtG), панель Glare</name>
-        <categoryId>9</categoryId>
-        <url>https://www.lg.com/kz/monitors/ultragear-gaming-oled/27gx704a-b/</url>
-        <price>399990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/it-mnt-monitors/ultragear-gaming/27gx704a-b/gallery/ultragear-gaming-27gx704a-2025-gallery-basic-large.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="6781" available="true">
@@ -5050,13 +5023,31 @@ LG Side-by-Side 617л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/it-mnt-monitors/24gs60f/product-gallery/basic/ultragear-24gs60f-basic-large.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="40939" available="true">
-        <name>34-дюймовый изогнутый игровой смарт-монитор LG UltraGear™ OLED 240Hz WQHD | webOS 0.03ms (GtG), 240Hz, DisplayHDR True Black 400 + Logitech G Pro X Superlight 2 DEX</name>
+      <offer id="40940" available="true">
+        <name>45-дюймовый игровой монитор LG UltraGear™ OLED Dual-Mode 5K2K | 0.03ms (GtG), Rich Bass (10Wx2), DisplayHDR True Black 400, DP 2.1 и USB-C + Logitech G Pro X Superlight 2 DEX</name>
         <categoryId>9</categoryId>
-        <url>https://www.lg.com/kz/monitors/ultragear-gaming-oled/34gx90sa-w/</url>
-        <price>789990</price>
+        <url>https://www.lg.com/kz/monitors/ultragear-gaming-oled/45gx950a-b/</url>
+        <price>1359990</price>
         <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/monitors-oled-promo/34gx90sa-w/34GX90SA-W_Logitech-G-Pro-X-Superlight-2-DEX-white_450x450px.png/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/monitors-oled-promo/45gx950a-b/45GX950A-B.ARUZ_Logitech-G-Pro-X-Superlight-2-DEX-black_450x450px.png/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="33917" available="true">
+        <name>LG UltraGear™ GX7 27 дюймов Игровой монитор 240Hz OLED QHD |27GX704A | DisplayHDR™ True Black 400, 0.03ms (GtG), панель Glare</name>
+        <categoryId>9</categoryId>
+        <url>https://www.lg.com/kz/monitors/ultragear-gaming-oled/27gx704a-b/</url>
+        <price>399990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/it-mnt-monitors/ultragear-gaming/27gx704a-b/gallery/ultragear-gaming-27gx704a-2025-gallery-basic-large.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="21586" available="true">
+        <name>29-дюймовый сверхширокий IPS-дисплей с разрешением 21:9 WFHD (2560x1080) + Logitech Pebble Mouse 2</name>
+        <categoryId>9</categoryId>
+        <url>https://www.lg.com/kz/monitors/ultrawide/29u531a-w/</url>
+        <price>119990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/it-mnt-monitors/ultra-wide/29u531a-w/promo-mnt_29U531A_w_basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="6197" available="true">
@@ -5068,6 +5059,15 @@ LG Side-by-Side 617л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/it-mnt-monitors/27ms500/gallery/gallery/fhd-27ms500-gallery-01-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
+      <offer id="40939" available="true">
+        <name>34-дюймовый изогнутый игровой смарт-монитор LG UltraGear™ OLED 240Hz WQHD | webOS 0.03ms (GtG), 240Hz, DisplayHDR True Black 400 + Logitech G Pro X Superlight 2 DEX</name>
+        <categoryId>9</categoryId>
+        <url>https://www.lg.com/kz/monitors/ultragear-gaming-oled/34gx90sa-w/</url>
+        <price>789990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/monitors-oled-promo/34gx90sa-w/34GX90SA-W_Logitech-G-Pro-X-Superlight-2-DEX-white_450x450px.png/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
       <offer id="6193" available="false">
         <name>27‑дюймовый игровой монитор UltraGear™ QHD IPS 180 Гц (O/C 200 Гц) | 1 мс (GtG), HDR10 + Logitech G102 Lightsync (чёрный)</name>
         <categoryId>9</categoryId>
@@ -5075,42 +5075,6 @@ LG Side-by-Side 617л</name>
         <price>134990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/aa-january/monitor-images/27GS75Q-G102-Lightsync_450x450px.png/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="14692" available="false">
-        <name>31,5-дюймовый HDR-монитор UHD 4K (3840x2160)</name>
-        <categoryId>9</categoryId>
-        <url>https://www.lg.com/kz/monitors/uhd-4k-5k/32un650k-w/</url>
-        <price>215990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/monitors/32un650-w_adrz_eeak_kz_c/32UN650-W_ADRZ_EEAK_KZ_C-450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="44153" available="false">
-        <name>31,5-дюймовый VA–монитор 4K UHD UltraFine™</name>
-        <categoryId>9</categoryId>
-        <url>https://www.lg.com/kz/monitors/uhd-4k-5k/32u720a-b/</url>
-        <price>229990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2026-monitors/32u720a-b/gallery/basic/ultrafine-ultrafine-uhd-4k-5k-32u720sa-2025-black-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="11021" available="false">
-        <name>27-дюймовый игровой монитор UltraGear™ QHD Nano IPS 180Hz (разгон до 200Hz) | 1ms (GtG), DisplayHDR™ 400</name>
-        <categoryId>9</categoryId>
-        <url>https://www.lg.com/kz/monitors/gaming/27gs85q-b/</url>
-        <price>190990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/it-mnt-monitors/ultragear-gaming/27gs85q-b/gallery/U03_ultragear-27gs85q-basic-large.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="8482" available="false">
-        <name>27-дюймовый IPS-дисплей 4K UHD UltraFine™</name>
-        <categoryId>9</categoryId>
-        <url>https://www.lg.com/kz/monitors/uhd-4k-5k/27us500-w/</url>
-        <price>144990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/it-mnt-monitors/ultrafine/27us500_new/gallery/basic/ultrafine-27us500-basic-large.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="41001" available="false">
@@ -5131,6 +5095,15 @@ LG Side-by-Side 617л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/it-mnt-monitors/ultragear-gaming/27g440a-b/gallery/ultragear-gaming-27g440a-2025-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
+      <offer id="11021" available="false">
+        <name>27-дюймовый игровой монитор UltraGear™ QHD Nano IPS 180Hz (разгон до 200Hz) | 1ms (GtG), DisplayHDR™ 400</name>
+        <categoryId>9</categoryId>
+        <url>https://www.lg.com/kz/monitors/gaming/27gs85q-b/</url>
+        <price>190990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/it-mnt-monitors/ultragear-gaming/27gs85q-b/gallery/U03_ultragear-27gs85q-basic-large.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
       <offer id="11020" available="false">
         <name>LG UltraGear™ 27-дюймовый игровой монитор OLED 480Hz QHD | 0.03ms (GtG), DP 2.1, DisplayHDR True Black 400</name>
         <categoryId>9</categoryId>
@@ -5138,6 +5111,33 @@ LG Side-by-Side 617л</name>
         <price>574990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/it-mnt-monitors/ultragear-gaming/27gx790a-b/U03_ultragear-gaming-27gx790a-2025-gallery-basic-large.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="8482" available="false">
+        <name>27-дюймовый IPS-дисплей 4K UHD UltraFine™</name>
+        <categoryId>9</categoryId>
+        <url>https://www.lg.com/kz/monitors/uhd-4k-5k/27us500-w/</url>
+        <price>144990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/it-mnt-monitors/ultrafine/27us500_new/gallery/basic/ultrafine-27us500-basic-large.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="14692" available="false">
+        <name>31,5-дюймовый HDR-монитор UHD 4K (3840x2160)</name>
+        <categoryId>9</categoryId>
+        <url>https://www.lg.com/kz/monitors/uhd-4k-5k/32un650k-w/</url>
+        <price>215990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/monitors/32un650-w_adrz_eeak_kz_c/32UN650-W_ADRZ_EEAK_KZ_C-450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="44153" available="false">
+        <name>31,5-дюймовый VA–монитор 4K UHD UltraFine™</name>
+        <categoryId>9</categoryId>
+        <url>https://www.lg.com/kz/monitors/uhd-4k-5k/32u720a-b/</url>
+        <price>229990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2026-monitors/32u720a-b/gallery/basic/ultrafine-ultrafine-uhd-4k-5k-32u720sa-2025-black-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
     </offers>
