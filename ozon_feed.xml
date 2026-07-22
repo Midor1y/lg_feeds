@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Updated: 2026-07-22 11:40:49 -->
+<!-- Updated: 2026-07-22 12:40:53 -->
 <yml_catalog>
   <shop>
     <offers>
@@ -1068,7 +1068,7 @@
       <offer id="5881">
         <price>749990</price>
         <outlets>
-          <outlet instock="0" warehouse_name="LG Electronics PP_2"/>
+          <outlet instock="1" warehouse_name="LG Electronics PP_2"/>
         </outlets>
       </offer>
       <offer id="5882">
@@ -2142,7 +2142,7 @@
       <offer id="10014">
         <price>249990</price>
         <outlets>
-          <outlet instock="5" warehouse_name="LG Electronics PP_2"/>
+          <outlet instock="4" warehouse_name="LG Electronics PP_2"/>
         </outlets>
       </offer>
       <offer id="10016">
@@ -4626,7 +4626,7 @@
       <offer id="46056">
         <price>169990</price>
         <outlets>
-          <outlet instock="7" warehouse_name="LG Electronics PP_2"/>
+          <outlet instock="3" warehouse_name="LG Electronics PP_2"/>
         </outlets>
       </offer>
       <offer id="46057">
