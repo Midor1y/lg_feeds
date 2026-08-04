@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Updated: 2026-08-04 15:19:09 -->
+<!-- Updated: 2026-08-04 16:19:15 -->
 <yml_catalog>
   <shop>
     <offers>
@@ -144,13 +144,13 @@
       <offer id="5700">
         <price>304990</price>
         <outlets>
-          <outlet instock="3" warehouse_name="LG Electronics PP_2"/>
+          <outlet instock="1" warehouse_name="LG Electronics PP_2"/>
         </outlets>
       </offer>
       <offer id="5701">
         <price>269990</price>
         <outlets>
-          <outlet instock="1" warehouse_name="LG Electronics PP_2"/>
+          <outlet instock="2" warehouse_name="LG Electronics PP_2"/>
         </outlets>
       </offer>
       <offer id="5702">
@@ -198,7 +198,7 @@
       <offer id="5709">
         <price>409990</price>
         <outlets>
-          <outlet instock="1" warehouse_name="LG Electronics PP_2"/>
+          <outlet instock="0" warehouse_name="LG Electronics PP_2"/>
         </outlets>
       </offer>
       <offer id="5710">
@@ -516,13 +516,13 @@
       <offer id="5770">
         <price>384990</price>
         <outlets>
-          <outlet instock="0" warehouse_name="LG Electronics PP_2"/>
+          <outlet instock="2" warehouse_name="LG Electronics PP_2"/>
         </outlets>
       </offer>
       <offer id="5772">
         <price>399990</price>
         <outlets>
-          <outlet instock="0" warehouse_name="LG Electronics PP_2"/>
+          <outlet instock="2" warehouse_name="LG Electronics PP_2"/>
         </outlets>
       </offer>
       <offer id="5773">
@@ -2148,7 +2148,7 @@
       <offer id="10016">
         <price>249990</price>
         <outlets>
-          <outlet instock="0" warehouse_name="LG Electronics PP_2"/>
+          <outlet instock="2" warehouse_name="LG Electronics PP_2"/>
         </outlets>
       </offer>
       <offer id="10086">
@@ -2886,7 +2886,7 @@
       <offer id="14273">
         <price>329990</price>
         <outlets>
-          <outlet instock="0" warehouse_name="LG Electronics PP_2"/>
+          <outlet instock="2" warehouse_name="LG Electronics PP_2"/>
         </outlets>
       </offer>
       <offer id="14284">
@@ -3430,7 +3430,7 @@
         </outlets>
       </offer>
       <offer id="21496">
-        <price>184990</price>
+        <price>179990</price>
         <outlets>
           <outlet instock="0" warehouse_name="LG Electronics PP_2"/>
         </outlets>
@@ -3724,7 +3724,7 @@
         </outlets>
       </offer>
       <offer id="23301">
-        <price>379990</price>
+        <price>369990</price>
         <outlets>
           <outlet instock="0" warehouse_name="LG Electronics PP_2"/>
         </outlets>
@@ -3810,7 +3810,7 @@
       <offer id="26429">
         <price>929980</price>
         <outlets>
-          <outlet instock="1" warehouse_name="LG Electronics PP_2"/>
+          <outlet instock="0" warehouse_name="LG Electronics PP_2"/>
         </outlets>
       </offer>
       <offer id="26430">
@@ -3840,7 +3840,7 @@
       <offer id="26434">
         <price>914980</price>
         <outlets>
-          <outlet instock="1" warehouse_name="LG Electronics PP_2"/>
+          <outlet instock="0" warehouse_name="LG Electronics PP_2"/>
         </outlets>
       </offer>
       <offer id="26435">
@@ -3912,7 +3912,7 @@
       <offer id="37511">
         <price>1129990</price>
         <outlets>
-          <outlet instock="1" warehouse_name="LG Electronics PP_2"/>
+          <outlet instock="11" warehouse_name="LG Electronics PP_2"/>
         </outlets>
       </offer>
       <offer id="38121">
@@ -4378,7 +4378,7 @@
         </outlets>
       </offer>
       <offer id="44914">
-        <price>424990</price>
+        <price>389990</price>
         <outlets>
           <outlet instock="2" warehouse_name="LG Electronics PP_2"/>
         </outlets>
@@ -4414,25 +4414,25 @@
         </outlets>
       </offer>
       <offer id="45540">
-        <price>469990</price>
+        <price>419990</price>
         <outlets>
           <outlet instock="1" warehouse_name="LG Electronics PP_2"/>
         </outlets>
       </offer>
       <offer id="45541">
-        <price>344990</price>
+        <price>339990</price>
         <outlets>
           <outlet instock="1" warehouse_name="LG Electronics PP_2"/>
         </outlets>
       </offer>
       <offer id="45542">
-        <price>799990</price>
+        <price>774990</price>
         <outlets>
           <outlet instock="1" warehouse_name="LG Electronics PP_2"/>
         </outlets>
       </offer>
       <offer id="45543">
-        <price>689990</price>
+        <price>649990</price>
         <outlets>
           <outlet instock="0" warehouse_name="LG Electronics PP_2"/>
         </outlets>
@@ -4444,7 +4444,7 @@
         </outlets>
       </offer>
       <offer id="45545">
-        <price>689990</price>
+        <price>649990</price>
         <outlets>
           <outlet instock="1" warehouse_name="LG Electronics PP_2"/>
         </outlets>
@@ -4456,7 +4456,7 @@
         </outlets>
       </offer>
       <offer id="45547">
-        <price>949990</price>
+        <price>799990</price>
         <outlets>
           <outlet instock="1" warehouse_name="LG Electronics PP_2"/>
         </outlets>
@@ -4468,19 +4468,19 @@
         </outlets>
       </offer>
       <offer id="45549">
-        <price>629990</price>
+        <price>589990</price>
         <outlets>
           <outlet instock="2" warehouse_name="LG Electronics PP_2"/>
         </outlets>
       </offer>
       <offer id="45550">
-        <price>399990</price>
+        <price>379990</price>
         <outlets>
           <outlet instock="1" warehouse_name="LG Electronics PP_2"/>
         </outlets>
       </offer>
       <offer id="45551">
-        <price>679990</price>
+        <price>664990</price>
         <outlets>
           <outlet instock="1" warehouse_name="LG Electronics PP_2"/>
         </outlets>
@@ -4504,19 +4504,19 @@
         </outlets>
       </offer>
       <offer id="45557">
-        <price>1299990</price>
+        <price>1199990</price>
         <outlets>
           <outlet instock="1" warehouse_name="LG Electronics PP_2"/>
         </outlets>
       </offer>
       <offer id="45558">
-        <price>2299990</price>
+        <price>2099990</price>
         <outlets>
           <outlet instock="1" warehouse_name="LG Electronics PP_2"/>
         </outlets>
       </offer>
       <offer id="45559">
-        <price>1099990</price>
+        <price>1089990</price>
         <outlets>
           <outlet instock="1" warehouse_name="LG Electronics PP_2"/>
         </outlets>
@@ -4552,7 +4552,7 @@
         </outlets>
       </offer>
       <offer id="45565">
-        <price>519990</price>
+        <price>489990</price>
         <outlets>
           <outlet instock="1" warehouse_name="LG Electronics PP_2"/>
         </outlets>
@@ -4564,7 +4564,7 @@
         </outlets>
       </offer>
       <offer id="45567">
-        <price>484990</price>
+        <price>449990</price>
         <outlets>
           <outlet instock="1" warehouse_name="LG Electronics PP_2"/>
         </outlets>
@@ -4582,7 +4582,7 @@
         </outlets>
       </offer>
       <offer id="45570">
-        <price>1249990</price>
+        <price>1199990</price>
         <outlets>
           <outlet instock="2" warehouse_name="LG Electronics PP_2"/>
         </outlets>
@@ -4594,13 +4594,13 @@
         </outlets>
       </offer>
       <offer id="45572">
-        <price>949990</price>
+        <price>899990</price>
         <outlets>
           <outlet instock="0" warehouse_name="LG Electronics PP_2"/>
         </outlets>
       </offer>
       <offer id="45574">
-        <price>584990</price>
+        <price>529990</price>
         <outlets>
           <outlet instock="2" warehouse_name="LG Electronics PP_2"/>
         </outlets>
@@ -4614,19 +4614,19 @@
       <offer id="46054">
         <price>189990</price>
         <outlets>
-          <outlet instock="0" warehouse_name="LG Electronics PP_2"/>
+          <outlet instock="2" warehouse_name="LG Electronics PP_2"/>
         </outlets>
       </offer>
       <offer id="46055">
         <price>229990</price>
         <outlets>
-          <outlet instock="1" warehouse_name="LG Electronics PP_2"/>
+          <outlet instock="2" warehouse_name="LG Electronics PP_2"/>
         </outlets>
       </offer>
       <offer id="46056">
         <price>169990</price>
         <outlets>
-          <outlet instock="1" warehouse_name="LG Electronics PP_2"/>
+          <outlet instock="5" warehouse_name="LG Electronics PP_2"/>
         </outlets>
       </offer>
       <offer id="46057">
@@ -4638,7 +4638,7 @@
       <offer id="46058">
         <price>184990</price>
         <outlets>
-          <outlet instock="0" warehouse_name="LG Electronics PP_2"/>
+          <outlet instock="3" warehouse_name="LG Electronics PP_2"/>
         </outlets>
       </offer>
       <offer id="46059">
@@ -4672,13 +4672,13 @@
         </outlets>
       </offer>
       <offer id="46614">
-        <price>249990</price>
+        <price>229990</price>
         <outlets>
           <outlet instock="3" warehouse_name="LG Electronics PP_2"/>
         </outlets>
       </offer>
       <offer id="46615">
-        <price>299990</price>
+        <price>289990</price>
         <outlets>
           <outlet instock="1" warehouse_name="LG Electronics PP_2"/>
         </outlets>
@@ -4732,7 +4732,7 @@
         </outlets>
       </offer>
       <offer id="47931">
-        <price>349990</price>
+        <price>329990</price>
         <outlets>
           <outlet instock="1" warehouse_name="LG Electronics PP_2"/>
         </outlets>
@@ -4744,13 +4744,13 @@
         </outlets>
       </offer>
       <offer id="47944">
-        <price>1599990</price>
+        <price>1399990</price>
         <outlets>
           <outlet instock="2" warehouse_name="LG Electronics PP_2"/>
         </outlets>
       </offer>
       <offer id="47945">
-        <price>1549990</price>
+        <price>1499990</price>
         <outlets>
           <outlet instock="1" warehouse_name="LG Electronics PP_2"/>
         </outlets>
