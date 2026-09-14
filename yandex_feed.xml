@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-14 10:03">
+<yml_catalog date="2026-09-14 12:09">
   <shop>
     <name>LG Electronics Kazakhstan</name>
     <company>LG Electronics</company>
@@ -45,6 +45,15 @@
         <price>1459990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/qned-evo/qned85/gp1/gallery/86-qned85/basic/lg-qned-evo-qned85-2026-86-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="47944" available="true">
+        <name>85-дюймовый телевизор Smart TV LG QNED evo AI QNED80 Mini LED 4K 2026</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/qned-evo/85qned80b6a/</url>
+        <price>1299990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2026-tvs/qned-evo/qned80/gallery/85-qned80/basic/lg-qned-evo-qned80-2026-85-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="57199" available="true">
@@ -135,15 +144,6 @@
         <price>1399990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/qned-evo/qned82/gp1/gallery/85-qned82/basic/lg-qned-evo-qned82-2026-85-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="47944" available="true">
-        <name>85-дюймовый телевизор Smart TV LG QNED evo AI QNED80 Mini LED 4K 2026</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/qned-evo/85qned80b6a/</url>
-        <price>1299990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2026-tvs/qned-evo/qned80/gallery/85-qned80/basic/lg-qned-evo-qned80-2026-85-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="43522" available="true">
@@ -471,6 +471,15 @@ LG Side-by-Side 617л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/refrigerators/gc-b509slcl_adsqcis_erok_kz_c/GC-B509SLCL_ADSQCIS_EROK_KZ_C-350x350.jpg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
+      <offer id="6901" available="true">
+        <name>Холодильник GC-B509FTZW LG DoorCooling+™ 387л</name>
+        <categoryId>3</categoryId>
+        <url>https://www.lg.com/kz/refrigerators/bottom-freezer/gc-b509ftzw/</url>
+        <price>524990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/bottom-freezers/gc-b509ftzw/feature-cards/gallery/01-basic/450-x-450/01-ref-f-vb-gc-b509fszw-front-450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
       <offer id="5847" available="false">
         <name>Холодильник GR-X24FQEKM LG Objet 527л</name>
         <categoryId>3</categoryId>
@@ -532,15 +541,6 @@ LG Side-by-Side 617л</name>
         <price>639990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/objet-collection-ref/gc-b404fapm/resized-gallery/BASIC-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="6901" available="true">
-        <name>Холодильник GC-B509FTZW LG DoorCooling+™ 387л</name>
-        <categoryId>3</categoryId>
-        <url>https://www.lg.com/kz/refrigerators/bottom-freezer/gc-b509ftzw/</url>
-        <price>524990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/bottom-freezers/gc-b509ftzw/feature-cards/gallery/01-basic/450-x-450/01-ref-f-vb-gc-b509fszw-front-450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="14095" available="false">
@@ -955,6 +955,15 @@ Hygiene Fresh™ 461л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-pdp/f2y1ws5j/f2y1ws5j-gallery/450_BASIC.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
+      <offer id="51442" available="true">
+        <name>Стиральная машина LG 11 кг - AI Wash | TurboWash™360˚</name>
+        <categoryId>4</categoryId>
+        <url>https://www.lg.com/kz/laundry/washing-machines/f4x5es2m/</url>
+        <price>499990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-pdp/f4x5es2m/f4x5es2m-gallery/new/f4x5es2m-front-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
       <offer id="51441" available="false">
         <name>Стиральная машина + Сушка LG WashTower, AI DD™ 13/10 кг</name>
         <categoryId>4</categoryId>
@@ -998,15 +1007,6 @@ Hygiene Fresh™ 461л</name>
         <price>924980</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-dryer-pto/dc90v9s-f4es2m/F4X5ES2M_DC90V5V9S_450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="51442" available="true">
-        <name>Стиральная машина LG 11 кг - AI Wash | TurboWash™360˚</name>
-        <categoryId>4</categoryId>
-        <url>https://www.lg.com/kz/laundry/washing-machines/f4x5es2m/</url>
-        <price>499990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-pdp/f4x5es2m/f4x5es2m-gallery/new/f4x5es2m-front-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="51458" available="true">
@@ -1990,6 +1990,42 @@ Hygiene Fresh™ 461л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-pdp/f2y1hs5j/f2y1hs5j-gallery/U03_md07602991-450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
+      <offer id="61397" available="true">
+        <name>Беспроводной пылесос LG CordZero™ A9X-MASTER Kompressor™, 220 Вт</name>
+        <categoryId>5</categoryId>
+        <url>https://www.lg.com/kz/vacuum-cleaners/cordless-vacuum-cleaners/a9x-master/</url>
+        <price>329990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/vcc/a9x-master/gallery/new/a9x-master-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="61398" available="true">
+        <name>Беспроводной пылесос LG CordZero™ A9X-PET Kompressor™, 220 Вт</name>
+        <categoryId>5</categoryId>
+        <url>https://www.lg.com/kz/vacuum-cleaners/cordless-vacuum-cleaners/a9x-pet/</url>
+        <price>279990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/vcc/a9x-pet/gallery/450x450/450-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="61400" available="true">
+        <name>Беспроводной пылесос LG CordZero™ A9X-CORE Kompressor™, 220 Вт</name>
+        <categoryId>5</categoryId>
+        <url>https://www.lg.com/kz/vacuum-cleaners/cordless-vacuum-cleaners/a9x-core/</url>
+        <price>249990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/vcc/a9x-core/gallery/450x450/03-A9X-LITE-S6CKNLRNSW-A9L-AQUA-Australia-RightSide-450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="61399" available="true">
+        <name>Беспроводной пылесос LG CordZero™ A9X-ACT Kompressor™, 220 Вт</name>
+        <categoryId>5</categoryId>
+        <url>https://www.lg.com/kz/vacuum-cleaners/cordless-vacuum-cleaners/a9x-act/</url>
+        <price>219990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/vcc/a9x-act/gallery-original/450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
       <offer id="5720" available="true">
         <name>Компактный пылесос с простым контейнером, VC5420NHTR, 380 Вт</name>
         <categoryId>5</categoryId>
@@ -2962,15 +2998,6 @@ Hygiene Fresh™ 461л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/2026-monitors/gaming-monitors/27g550b-b/gallery/basic/ultragear-gaming-27g550b-2026-gallery-baisic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="47167" available="true">
-        <name>25-дюймовый игровой монитор UltraGear™ G5, 300 Гц, Full HD</name>
-        <categoryId>9</categoryId>
-        <url>https://www.lg.com/kz/monitors/gaming/25g550b-b/</url>
-        <price>92990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/25g550b-b/galley/ultragear-gaming-25g550b-2026-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="47164" available="true">
         <name>27-дюймовый игровой монитор UltraGear™ G5 с частотой 200 Гц и разрешением FHD</name>
         <categoryId>9</categoryId>
@@ -2980,6 +3007,15 @@ Hygiene Fresh™ 461л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/it-mnt-monitors/27g523b-b/gallery/basic/ultragear-gaming-27g523b-2026-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
+      <offer id="47167" available="true">
+        <name>25-дюймовый игровой монитор UltraGear™ G5, 300 Гц, Full HD</name>
+        <categoryId>9</categoryId>
+        <url>https://www.lg.com/kz/monitors/gaming/25g550b-b/</url>
+        <price>92990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/25g550b-b/galley/ultragear-gaming-25g550b-2026-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
       <offer id="47165" available="true">
         <name>25-дюймовый игровой монитор UltraGear™ G5 с частотой 200 Гц и разрешением FHD</name>
         <categoryId>9</categoryId>
@@ -2987,15 +3023,6 @@ Hygiene Fresh™ 461л</name>
         <price>76990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/25g523b-b/gallery/ultragear-gaming-25g523b-2026-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="44154" available="true">
-        <name>31,5-дюймовый LG Smart Monitor Swing 4K UHD IPS с сенсорным экраном и мобильной стойкой</name>
-        <categoryId>9</categoryId>
-        <url>https://www.lg.com/kz/monitors/smart/32u889sa-b/</url>
-        <price>599990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2026-monitors/32u889sa/gallery/basic/smart-monitor-32u889sa-2025-gallery-swing-gallery-basic-large.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="47168" available="true">
@@ -3016,6 +3043,15 @@ Hygiene Fresh™ 461л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/2026-monitors/gaming-monitors/27g411a-b/gallery/basic/ultragear-gaming-27g411a-2025-gallery-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
+      <offer id="44154" available="true">
+        <name>31,5-дюймовый LG Smart Monitor Swing 4K UHD IPS с сенсорным экраном и мобильной стойкой</name>
+        <categoryId>9</categoryId>
+        <url>https://www.lg.com/kz/monitors/smart/32u889sa-b/</url>
+        <price>599990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2026-monitors/32u889sa/gallery/basic/smart-monitor-32u889sa-2025-gallery-swing-gallery-basic-large.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
       <offer id="11018" available="true">
         <name>27" UHD 4K IPS монитор, имеющий сертификат VESA DisplayHDR™ 400</name>
         <categoryId>9</categoryId>
@@ -3023,6 +3059,24 @@ Hygiene Fresh™ 461л</name>
         <price>239990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/monitors/27up850-w_adrz_eeak_kz_c/md07522036-450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="19140" available="true">
+        <name>27'' UHD 4K IPS монитор, имеющий сертификат VESA DisplayHDR™ 400</name>
+        <categoryId>9</categoryId>
+        <url>https://www.lg.com/kz/monitors/uhd-4k-5k/27up650k-w/</url>
+        <price>149990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/monitors/27up650-w_adrz_eeak_kz_c/27UP650-W_ADRZ_EEAK_KZ_C-450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="43287" available="true">
+        <name>24-дюймовый игровой монитор LG UltraGear™ G4 с частотой обновления 144 Гц (O/C) и разрешением FHD IPS | 24G411A с поддержкой NVIDIA G-SYNCR, SRGB 99% (тип.)</name>
+        <categoryId>9</categoryId>
+        <url>https://www.lg.com/kz/monitors/gaming/24g411a-b/</url>
+        <price>58990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/it-mnt-monitors/ultragear-gaming/24g411a-b/gallery/ultragear-gaming-24g411a-2025-gallery-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="44155" available="true">
@@ -3052,24 +3106,6 @@ Hygiene Fresh™ 461л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/it-mnt-monitors/ultragear-gaming/27g810a/gallery/basic/ultragear-gaming-27g810a-2025-gallery-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="19140" available="true">
-        <name>27'' UHD 4K IPS монитор, имеющий сертификат VESA DisplayHDR™ 400</name>
-        <categoryId>9</categoryId>
-        <url>https://www.lg.com/kz/monitors/uhd-4k-5k/27up650k-w/</url>
-        <price>149990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/monitors/27up650-w_adrz_eeak_kz_c/27UP650-W_ADRZ_EEAK_KZ_C-450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="43287" available="true">
-        <name>24-дюймовый игровой монитор LG UltraGear™ G4 с частотой обновления 144 Гц (O/C) и разрешением FHD IPS | 24G411A с поддержкой NVIDIA G-SYNCR, SRGB 99% (тип.)</name>
-        <categoryId>9</categoryId>
-        <url>https://www.lg.com/kz/monitors/gaming/24g411a-b/</url>
-        <price>58990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/it-mnt-monitors/ultragear-gaming/24g411a-b/gallery/ultragear-gaming-24g411a-2025-gallery-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="56066" available="false">
         <name>34-дюймовый изогнутый (1800R) монитор LG UltraWide™ 34U640B WQHD 144Hz с USB-C, HDR 10 и sRGB 99% (станд.)</name>
         <categoryId>9</categoryId>
@@ -3095,6 +3131,24 @@ Hygiene Fresh™ 461л</name>
         <price>1359990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/monitors-oled-promo/45gx950a-b/45GX950A-B.ARUZ_Logitech-G-Pro-X-Superlight-2-DEX-black_450x450px.png/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="37326" available="false">
+        <name>27-дюймовый игровой монитор LG UltraGear™ G6 с частотой обновления 200 Гц и разрешением QHD│27G610A с sRGB 99% (тип.), VESA DisplayHDR™ 400, 1 мс (GtG), HDMI 2.0</name>
+        <categoryId>9</categoryId>
+        <url>https://www.lg.com/kz/monitors/gaming/27g610a-b/</url>
+        <price>135990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/it-mnt-monitors/ultragear-gaming/27g610a-b/gallery/ultragear-gaming-27g610a-2025-gallery-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="37327" available="false">
+        <name>27-дюймовый игровой монитор LG UltraGear™ G4 с частотой обновления 240 Гц и разрешением Full HD│27G440A с sRGB 99% (тип.), 1 мс (GtG), HDMI 2.0</name>
+        <categoryId>9</categoryId>
+        <url>https://www.lg.com/kz/monitors/gaming/27g440a-b/</url>
+        <price>129990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/it-mnt-monitors/ultragear-gaming/27g440a-b/gallery/ultragear-gaming-27g440a-2025-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="33917" available="false">
@@ -3131,24 +3185,6 @@ Hygiene Fresh™ 461л</name>
         <price>150990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/32g600a-b/gallery/basic/ultragear-gaming-32g600a-2025-gallery-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="37326" available="false">
-        <name>27-дюймовый игровой монитор LG UltraGear™ G6 с частотой обновления 200 Гц и разрешением QHD│27G610A с sRGB 99% (тип.), VESA DisplayHDR™ 400, 1 мс (GtG), HDMI 2.0</name>
-        <categoryId>9</categoryId>
-        <url>https://www.lg.com/kz/monitors/gaming/27g610a-b/</url>
-        <price>135990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/it-mnt-monitors/ultragear-gaming/27g610a-b/gallery/ultragear-gaming-27g610a-2025-gallery-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="37327" available="false">
-        <name>27-дюймовый игровой монитор LG UltraGear™ G4 с частотой обновления 240 Гц и разрешением Full HD│27G440A с sRGB 99% (тип.), 1 мс (GtG), HDMI 2.0</name>
-        <categoryId>9</categoryId>
-        <url>https://www.lg.com/kz/monitors/gaming/27g440a-b/</url>
-        <price>129990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/it-mnt-monitors/ultragear-gaming/27g440a-b/gallery/ultragear-gaming-27g440a-2025-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
     </offers>
