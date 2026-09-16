@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-09-16 14:50">
+<yml_catalog date="2026-09-16 16:57">
   <shop>
     <name>LG Electronics Kazakhstan</name>
     <company>LG Electronics</company>
@@ -1648,15 +1648,6 @@ Hygiene Fresh™ 461л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-pdp/wt-covers-with-assel-sagatova/w4w8lvpk4hm/PLP%20450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="15072" available="false">
-        <name>Стиральная машина LG 7 кг - AI DD™</name>
-        <categoryId>4</categoryId>
-        <url>https://www.lg.com/kz/laundry/washing-machines/f2v5hs5w/</url>
-        <price>244990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-pdp/f2v5hs5w/f2v5hs5w-gallery/f2v5hs5w-resized/Basic_450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="5774" available="false">
         <name>Паровой шкаф LG Styler™ S3WER, TrueSteam™ 4 вещи</name>
         <categoryId>4</categoryId>
@@ -1826,6 +1817,15 @@ Hygiene Fresh™ 461л</name>
         <price>954980</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/dryer-pdp/washer-dryer-pto/desktop/tw4v7eb1w-dc90v9-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="15072" available="false">
+        <name>Стиральная машина LG 7 кг - AI DD™</name>
+        <categoryId>4</categoryId>
+        <url>https://www.lg.com/kz/laundry/washing-machines/f2v5hs5w/</url>
+        <price>244990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-pdp/f2v5hs5w/f2v5hs5w-gallery/f2v5hs5w-resized/Basic_450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="5708" available="false">
