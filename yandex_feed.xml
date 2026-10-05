@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-05 13:36">
+<yml_catalog date="2026-10-05 15:43">
   <shop>
     <name>LG Electronics Kazakhstan</name>
     <company>LG Electronics</company>
@@ -507,7 +507,7 @@ LG Side-by-Side 617л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/side-by-side/gc-l257cbev/feature-cards/gallery/450-v1.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="5814" available="true">
+      <offer id="5814" available="false">
         <name>Холодильная камера LG Objet Collection GC-B401FEPM DoorCooling+ на 386 л</name>
         <categoryId>3</categoryId>
         <url>https://www.lg.com/kz/refrigerators/objet-collection-refrigerators/gc-b401fepm/</url>
@@ -579,15 +579,6 @@ LG Side-by-Side 617л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/bottom-freezers/f-ub5/gc-b509emlm-apyqrus/gallery/GC-B509EMLM-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="5847" available="true">
-        <name>Многодверный холодильник GR-X24FQEKM LG Objet 527л</name>
-        <categoryId>3</categoryId>
-        <url>https://www.lg.com/kz/refrigerators/objet-collection-refrigerators/gr-x24fqekm/</url>
-        <price>1799990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/pdp-plp-update-instaview-without-cosmetic/450x450/GR-X24FQEKM_450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="5841" available="true">
         <name>Холодильник GR-A24FQAKM LG Objet 527л</name>
         <categoryId>3</categoryId>
@@ -595,6 +586,15 @@ LG Side-by-Side 617л</name>
         <price>1799990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/pdp-plp-update-instaview-without-cosmetic/450x450/GR-A24FQAKM_450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="5847" available="true">
+        <name>Многодверный холодильник GR-X24FQEKM LG Objet 527л</name>
+        <categoryId>3</categoryId>
+        <url>https://www.lg.com/kz/refrigerators/objet-collection-refrigerators/gr-x24fqekm/</url>
+        <price>1799990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/pdp-plp-update-instaview-without-cosmetic/450x450/GR-X24FQEKM_450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="38176" available="true">
@@ -735,15 +735,6 @@ Hygiene Fresh™ 612л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/objet-collection-ref/gc-b509qk9m/gallery/450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="5816" available="true">
-        <name>Морозильная камера GC-B404FEQM LG Objet 324л</name>
-        <categoryId>3</categoryId>
-        <url>https://www.lg.com/kz/refrigerators/objet-collection-refrigerators/gc-b404feqm/</url>
-        <price>649990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/refrigerators/gc-b404feqm_abeqcis_erok_kz_c/GC-B404FEQM_ABEQCIS_EROK_KZ_C-350x350.jpg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="5815" available="true">
         <name>Морозильная камера GC-B404FAQM LG Objet 324л</name>
         <categoryId>3</categoryId>
@@ -781,15 +772,6 @@ Hygiene Fresh™ 461л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/refrigerators/gc-b459slcl-ms2535k/450x450px.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="43309" available="false">
-        <name>Холодильник с нижней морозильной камерой LG GC-B509EPTM с технологией Zero Clearance™, 375 л</name>
-        <categoryId>3</categoryId>
-        <url>https://www.lg.com/kz/refrigerators/bottom-freezer/gc-b509eptm/</url>
-        <price>409990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/bottom-freezers/f-ub5/gc-b509eptm-aepqrus/product-photos/gallery/GC-B509EPTM-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="43308" available="false">
         <name>Холодильник с нижней морозильной камерой LG GC-B509EMTM с технологией Zero Clearance™, 375 л</name>
         <categoryId>3</categoryId>
@@ -806,6 +788,15 @@ Hygiene Fresh™ 461л</name>
         <price>399990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/bottom-freezers/f-ub5/gc-b509eetm-aseqrus/gallery/GC-B509EETM-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="43309" available="false">
+        <name>Холодильник с нижней морозильной камерой LG GC-B509EPTM с технологией Zero Clearance™, 375 л</name>
+        <categoryId>3</categoryId>
+        <url>https://www.lg.com/kz/refrigerators/bottom-freezer/gc-b509eptm/</url>
+        <price>409990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/bottom-freezers/f-ub5/gc-b509eptm-aepqrus/product-photos/gallery/GC-B509EPTM-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="38179" available="false">
@@ -833,6 +824,15 @@ Hygiene Fresh™ 461л</name>
         <price>329990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/bottom-freezers/f-ub7/gc-b459eqlm-aswqrus/gallery/GC-B459EQLM-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="5816" available="false">
+        <name>Морозильная камера GC-B404FEQM LG Objet 324л</name>
+        <categoryId>3</categoryId>
+        <url>https://www.lg.com/kz/refrigerators/objet-collection-refrigerators/gc-b404feqm/</url>
+        <price>649990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/refrigerators/gc-b404feqm_abeqcis_erok_kz_c/GC-B404FEQM_ABEQCIS_EROK_KZ_C-350x350.jpg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="38180" available="false">
@@ -1529,6 +1529,24 @@ LG Side-by-Side 617л</name>
         <price>194990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-pdp/f2y1ws5w/f2y1ws5w-gallery/450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="22988" available="false">
+        <name>Стиральная машина + Сушка LG WashTower, AI DD™ 13/10 кг</name>
+        <categoryId>4</categoryId>
+        <url>https://www.lg.com/kz/laundry/objet-collection-washtower/w4w8lvpk4hm-abnpqom/</url>
+        <price>1129990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-pdp/wt-covers-with-assel-sagatova/w4w8lvpk4hm/PLP%20450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="38177" available="false">
+        <name>Стиральная машина + Сушка LG WashTower, AI DD™ 13/10 кг</name>
+        <categoryId>4</categoryId>
+        <url>https://www.lg.com/kz/laundry/objet-collection-washtower/w4w8lvpk4hm-abnpqom/</url>
+        <price>1129990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-pdp/wt-covers-with-assel-sagatova/w4w8lvpk4hm/PLP%20450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="6898" available="false">
@@ -2899,7 +2917,7 @@ LG Side-by-Side 617л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/it-mnt-monitors/ultra-wide/29u531a-w/promo-mnt_29U531A_w_basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="8801" available="false">
+      <offer id="8801" available="true">
         <name>32-дюймовый игровой монитор UltraGear™ OLED | 4K UHD, 0.03ms (GtG), DisplayHDR True Black 400</name>
         <categoryId>9</categoryId>
         <url>https://www.lg.com/kz/monitors/gaming/32gs95uv-b/</url>
