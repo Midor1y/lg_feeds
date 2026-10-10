@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-10 14:11">
+<yml_catalog date="2026-10-10 16:17">
   <shop>
     <name>LG Electronics Kazakhstan</name>
     <company>LG Electronics</company>
@@ -2998,15 +2998,6 @@ Hygiene Fresh™ 461л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/25g523b-b/gallery/ultragear-gaming-25g523b-2026-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="11018" available="true">
-        <name>27" UHD 4K IPS монитор, имеющий сертификат VESA DisplayHDR™ 400</name>
-        <categoryId>9</categoryId>
-        <url>https://www.lg.com/kz/monitors/uhd-4k-5k/27up850k-w/</url>
-        <price>239990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/monitors/27up850-w_adrz_eeak_kz_c/md07522036-450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="41001" available="true">
         <name>Игровой монитор LG UltraGear™ G4 27-дюймовый 144Hz (O/C) FHD IPS | 27g411a совместимый с NVIDIA G-SYNCR, SRGB 99% (станд.)</name>
         <categoryId>9</categoryId>
@@ -3023,6 +3014,15 @@ Hygiene Fresh™ 461л</name>
         <price>49990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/it-mnt-monitors/ultragear-gaming/24g411a-b/gallery/ultragear-gaming-24g411a-2025-gallery-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="11018" available="true">
+        <name>27" UHD 4K IPS монитор, имеющий сертификат VESA DisplayHDR™ 400</name>
+        <categoryId>9</categoryId>
+        <url>https://www.lg.com/kz/monitors/uhd-4k-5k/27up850k-w/</url>
+        <price>239990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/monitors/27up850-w_adrz_eeak_kz_c/md07522036-450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="44154" available="true">
