@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-14 12:56">
+<yml_catalog date="2026-10-14 15:02">
   <shop>
     <name>LG Electronics Kazakhstan</name>
     <company>LG Electronics</company>
@@ -1351,6 +1351,24 @@ Hygiene Fresh™ 461л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-pdp/f2v3ps6w/gallery/450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
+      <offer id="9041" available="true">
+        <name>Стиральная машина LG 6 кг - DD™ | Steam™</name>
+        <categoryId>4</categoryId>
+        <url>https://www.lg.com/kz/laundry/washing-machines/f2y1ns3w-abwpcom/</url>
+        <price>174990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/washing-machines/f2y1ns3w/gallery/basic-450-new.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="46056" available="true">
+        <name>Стиральная машина LG 6 кг - DD™ | Steam™</name>
+        <categoryId>4</categoryId>
+        <url>https://www.lg.com/kz/laundry/washing-machines/f2y1ns3w-abwpcom/</url>
+        <price>174990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/washing-machines/f2y1ns3w/gallery/basic-450-new.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
       <offer id="13907" available="true">
         <name>Стиральная машина LG 6.5 кг - DD™ | Steam™</name>
         <categoryId>4</categoryId>
@@ -1700,24 +1718,6 @@ Hygiene Fresh™ 461л</name>
         <price>504990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/dryer-pdp/dc90v9v9wn-bbwpcom/resizes/basic-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="9041" available="false">
-        <name>Стиральная машина LG 6 кг - DD™ | Steam™</name>
-        <categoryId>4</categoryId>
-        <url>https://www.lg.com/kz/laundry/washing-machines/f2y1ns3w-abwpcom/</url>
-        <price>174990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/washing-machines/f2y1ns3w/gallery/basic-450-new.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="46056" available="false">
-        <name>Стиральная машина LG 6 кг - DD™ | Steam™</name>
-        <categoryId>4</categoryId>
-        <url>https://www.lg.com/kz/laundry/washing-machines/f2y1ns3w-abwpcom/</url>
-        <price>174990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/washing-machines/f2y1ns3w/gallery/basic-450-new.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="51459" available="false">
