@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-15 01:36">
+<yml_catalog date="2026-10-15 03:42">
   <shop>
     <name>LG Electronics Kazakhstan</name>
     <company>LG Electronics</company>
@@ -110,22 +110,22 @@
         <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/oled-evo/c6/gp1/gallery/65-c6/gallery/450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="43512" available="true">
-        <name>55-дюймовый телевизор Smart TV LG QNED evo AI QNED83 Mini LED 4K 2026</name>
+      <offer id="43546" available="true">
+        <name>65-дюймовый телевизор Smart TV LG QNED evo AI QNED83 Mini LED 4K 2026</name>
         <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/qned-evo/55qned83b6a/</url>
-        <price>449990</price>
+        <url>https://www.lg.com/kz/tvs-soundbars/qned-evo/65qned83b6a/</url>
+        <price>619990</price>
         <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/qned-evo/qned82/gp1/gallery/55-qned82/basic/lg-qned-evo-qned82-2026-55-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/qned-evo/qned82/gp1/gallery/65-qned82/basic/lg-qned-evo-qned82-2026-65-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="45565" available="true">
-        <name>55-дюймовый телевизор Smart TV LG QNED evo AI QNED83 Mini LED 4K 2026</name>
+      <offer id="45543" available="true">
+        <name>65-дюймовый телевизор Smart TV LG QNED evo AI QNED83 Mini LED 4K 2026</name>
         <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/qned-evo/55qned83b6a/</url>
-        <price>449990</price>
+        <url>https://www.lg.com/kz/tvs-soundbars/qned-evo/65qned83b6a/</url>
+        <price>619990</price>
         <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/qned-evo/qned82/gp1/gallery/55-qned82/basic/lg-qned-evo-qned82-2026-55-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/qned-evo/qned82/gp1/gallery/65-qned82/basic/lg-qned-evo-qned82-2026-65-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="43518" available="true">
@@ -697,15 +697,6 @@ LG Side-by-Side 617л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/refrigerators/gc-b509slcl_adsqcis_erok_kz_c/GC-B509SLCL_ADSQCIS_EROK_KZ_C-350x350.jpg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="5817" available="true">
-        <name>Холодильник GC-B459SECL LG DoorCooling+™ с нижней морозильной камерой 341л</name>
-        <categoryId>3</categoryId>
-        <url>https://www.lg.com/kz/refrigerators/bottom-freezer/gc-b459secl/</url>
-        <price>279990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/refrigerators/gc-b459secl_aseqcis_eeak_kz_c/GC-B459SECL_ASEQCIS_EEAK_KZ_C-350x350.jpg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="5822" available="true">
         <name>Холодильник GC-B509QG9M LG Objet 387л</name>
         <categoryId>3</categoryId>
@@ -713,6 +704,15 @@ LG Side-by-Side 617л</name>
         <price>629990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/refrigerators/gc-b509qg9m_abeqcis_eeak_kz_c/GC-B509QG9M_ABEQCIS_EEAK_KZ_C-350x350.jpg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="5817" available="true">
+        <name>Холодильник GC-B459SECL LG DoorCooling+™ с нижней морозильной камерой 341л</name>
+        <categoryId>3</categoryId>
+        <url>https://www.lg.com/kz/refrigerators/bottom-freezer/gc-b459secl/</url>
+        <price>279990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/refrigerators/gc-b459secl_aseqcis_eeak_kz_c/GC-B459SECL_ASEQCIS_EEAK_KZ_C-350x350.jpg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="10013" available="false">
@@ -2944,33 +2944,6 @@ Hygiene Fresh™ 461л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/rac/shared/2025-rac/ga1_artcool_a/gallery/rac-eu-s3nm09el16a-ga1-gp1-basic-large.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="13773" available="false">
-        <name>Кондиционер LG ARTCOOL Gallery Premium A09GA2 | до 25 м²</name>
-        <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/a09ga2/</url>
-        <price>929990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/a09ga2-nser-eeak-kz-c/gallery/rac-eu-s3nm09el26a-ga2-gp1-basic-large.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="13777" available="false">
-        <name>Кондиционер LG ARTCOOL Gallery Premium A09GA2 | до 25 м²</name>
-        <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/a09ga2/</url>
-        <price>929990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/a09ga2-nser-eeak-kz-c/gallery/rac-eu-s3nm09el26a-ga2-gp1-basic-large.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="13790" available="false">
-        <name>Кондиционер LG ARTCOOL Gallery Premium A09GA2 | до 25 м²</name>
-        <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/a09ga2/</url>
-        <price>929990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/a09ga2-nser-eeak-kz-c/gallery/rac-eu-s3nm09el26a-ga2-gp1-basic-large.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="5952" available="false">
         <name>Кондиционер LG B24TS DUALCOOL Dual Inverter | LG KZ</name>
         <categoryId>8</categoryId>
@@ -2996,6 +2969,33 @@ Hygiene Fresh™ 461л</name>
         <price>434990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/b18ts_nsk_erok_kz_c/B18TS_NSK_EROK_KZ_C-450x450-v1.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="13773" available="false">
+        <name>Кондиционер LG ARTCOOL Gallery Premium A09GA2 | до 25 м²</name>
+        <categoryId>8</categoryId>
+        <url>https://www.lg.com/kz/air-conditioner/a09ga2/</url>
+        <price>929990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/a09ga2-nser-eeak-kz-c/gallery/rac-eu-s3nm09el26a-ga2-gp1-basic-large.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="13777" available="false">
+        <name>Кондиционер LG ARTCOOL Gallery Premium A09GA2 | до 25 м²</name>
+        <categoryId>8</categoryId>
+        <url>https://www.lg.com/kz/air-conditioner/a09ga2/</url>
+        <price>929990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/a09ga2-nser-eeak-kz-c/gallery/rac-eu-s3nm09el26a-ga2-gp1-basic-large.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="13790" available="false">
+        <name>Кондиционер LG ARTCOOL Gallery Premium A09GA2 | до 25 м²</name>
+        <categoryId>8</categoryId>
+        <url>https://www.lg.com/kz/air-conditioner/a09ga2/</url>
+        <price>929990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/a09ga2-nser-eeak-kz-c/gallery/rac-eu-s3nm09el26a-ga2-gp1-basic-large.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="21586" available="false">
