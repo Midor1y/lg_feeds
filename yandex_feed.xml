@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-19 08:59">
+<yml_catalog date="2026-10-19 11:06">
   <shop>
     <name>LG Electronics Kazakhstan</name>
     <company>LG Electronics</company>
@@ -2692,33 +2692,6 @@ Hygiene Fresh™ 461л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/rac/shared/dualcool-inverter-pro-/gallery/basic/lg-single-split-inverter-air-conditioner-ot-2025-s3nw12tzxba-gallery-basic-large.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="5950" available="false">
-        <name>Кондиционер LG DUALCOOL инверторный, B12TS | до 36 м²</name>
-        <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/b12ts/</url>
-        <price>279990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/b12ts_nsj_erok_kz_c/B12TS_NSJ_EROK_KZ_C-350x350.jpg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="13785" available="false">
-        <name>Кондиционер LG DUALCOOL инверторный, B12TS | до 36 м²</name>
-        <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/b12ts/</url>
-        <price>279990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/b12ts_nsj_erok_kz_c/B12TS_NSJ_EROK_KZ_C-350x350.jpg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="13794" available="false">
-        <name>Кондиционер LG DUALCOOL инверторный, B12TS | до 36 м²</name>
-        <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/b12ts/</url>
-        <price>279990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/b12ts_nsj_erok_kz_c/B12TS_NSJ_EROK_KZ_C-350x350.jpg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="5944" available="false">
         <name>Кондиционер ARTCOOL Mirror | Технология Dual Inverter | до 27 м²</name>
         <categoryId>8</categoryId>
@@ -2744,6 +2717,33 @@ Hygiene Fresh™ 461л</name>
         <price>369990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/ac09bk_nsjr_eeak_kz_c/AC09BK_NSJR_EEAK_KZ_C-450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="5950" available="false">
+        <name>Кондиционер LG DUALCOOL инверторный, B12TS | до 36 м²</name>
+        <categoryId>8</categoryId>
+        <url>https://www.lg.com/kz/air-conditioner/b12ts/</url>
+        <price>279990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/b12ts_nsj_erok_kz_c/B12TS_NSJ_EROK_KZ_C-350x350.jpg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="13785" available="false">
+        <name>Кондиционер LG DUALCOOL инверторный, B12TS | до 36 м²</name>
+        <categoryId>8</categoryId>
+        <url>https://www.lg.com/kz/air-conditioner/b12ts/</url>
+        <price>279990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/b12ts_nsj_erok_kz_c/B12TS_NSJ_EROK_KZ_C-350x350.jpg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="13794" available="false">
+        <name>Кондиционер LG DUALCOOL инверторный, B12TS | до 36 м²</name>
+        <categoryId>8</categoryId>
+        <url>https://www.lg.com/kz/air-conditioner/b12ts/</url>
+        <price>279990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/b12ts_nsj_erok_kz_c/B12TS_NSJ_EROK_KZ_C-350x350.jpg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="5946" available="false">
