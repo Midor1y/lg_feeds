@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-19 13:12">
+<yml_catalog date="2026-10-19 15:18">
   <shop>
     <name>LG Electronics Kazakhstan</name>
     <company>LG Electronics</company>
@@ -20,7 +20,7 @@
       <category id="9">Monitors</category>
     </categories>
     <offers>
-      <offer id="46613" available="false">
+      <offer id="46613" available="true">
         <name>77-дюймовый телевизор Smart TV LG OLED evo AI G6 4K 2026</name>
         <categoryId>1</categoryId>
         <url>https://www.lg.com/kz/tvs-soundbars/oled-evo/oled77g6rla/</url>
