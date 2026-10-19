@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-19 21:39">
+<yml_catalog date="2026-10-19 23:46">
   <shop>
     <name>LG Electronics Kazakhstan</name>
     <company>LG Electronics</company>
@@ -3133,15 +3133,6 @@ Hygiene Fresh™ 461л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/it-mnt-monitors/ultragear-gaming/27g610a-b/gallery/ultragear-gaming-27g610a-2025-gallery-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="40940" available="false">
-        <name>45-дюймовый игровой монитор LG UltraGear™ OLED Dual-Mode 5K2K | 0.03ms (GtG), Rich Bass (10Wx2), DisplayHDR True Black 400, DP 2.1 и USB-C + Logitech G Pro X Superlight 2 DEX</name>
-        <categoryId>9</categoryId>
-        <url>https://www.lg.com/kz/monitors/ultragear-gaming-oled/45gx950a-b/</url>
-        <price>1359990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/monitors-oled-promo/45gx950a-b/45GX950A-B.ARUZ_Logitech-G-Pro-X-Superlight-2-DEX-black_450x450px.png/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="59864" available="false">
         <name>27-дюймовый игровой QHD-монитор OLED 4-го поколения LG UltraGearㅣ27GX790B с двумя режимами (720 Гц при HD, 540 Гц при QHD), 0,02 мс (серый к серому), DP2.1, VESA DisplayHDR™ «Настоящий черный 500»</name>
         <categoryId>9</categoryId>
@@ -3149,6 +3140,15 @@ Hygiene Fresh™ 461л</name>
         <price>499990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/2026-monitors/gaming-monitors/27gx790b-b/gallery/basic/ultragear-gaming-27gx790b-2026-gallery-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="40940" available="false">
+        <name>45-дюймовый игровой монитор LG UltraGear™ OLED Dual-Mode 5K2K | 0.03ms (GtG), Rich Bass (10Wx2), DisplayHDR True Black 400, DP 2.1 и USB-C + Logitech G Pro X Superlight 2 DEX</name>
+        <categoryId>9</categoryId>
+        <url>https://www.lg.com/kz/monitors/ultragear-gaming-oled/45gx950a-b/</url>
+        <price>1359990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/monitors-oled-promo/45gx950a-b/45GX950A-B.ARUZ_Logitech-G-Pro-X-Superlight-2-DEX-black_450x450px.png/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="37325" available="false">
