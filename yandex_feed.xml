@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-20 01:53">
+<yml_catalog date="2026-10-20 03:59">
   <shop>
     <name>LG Electronics Kazakhstan</name>
     <company>LG Electronics</company>
@@ -2215,15 +2215,6 @@ Hygiene Fresh™ 461л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/vacuum-cleaners/a9k-pro1_bfsqcis_erok_kz_c/A9K-PRO1_BFSQCIS_EROK_KZ_C-350x350.jpg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="5884" available="false">
-        <name>Пылесос с системой прессования пыли Kompressor, VC83109UHAQ, 420 Вт</name>
-        <categoryId>5</categoryId>
-        <url>https://www.lg.com/kz/vacuum-cleaners/kompressor-vacuum-cleaners/vc83109uhaq/</url>
-        <price>126990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/vacuum-cleaners/vc83109uhaq_avwqcis_eeak_kz_c/vc83109uhaq-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="34435" available="false">
         <name>Беспроводной пылесос LG CordZero™ A9L-SLIM, 150 Вт</name>
         <categoryId>5</categoryId>
@@ -2231,6 +2222,15 @@ Hygiene Fresh™ 461л</name>
         <price>119990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/vcc/a9-air/gallery/01-basic/450-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="5884" available="false">
+        <name>Пылесос с системой прессования пыли Kompressor, VC83109UHAQ, 420 Вт</name>
+        <categoryId>5</categoryId>
+        <url>https://www.lg.com/kz/vacuum-cleaners/kompressor-vacuum-cleaners/vc83109uhaq/</url>
+        <price>126990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/vacuum-cleaners/vc83109uhaq_avwqcis_eeak_kz_c/vc83109uhaq-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="5856" available="false">
@@ -3133,15 +3133,6 @@ Hygiene Fresh™ 461л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/it-mnt-monitors/ultragear-gaming/27g610a-b/gallery/ultragear-gaming-27g610a-2025-gallery-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="40940" available="false">
-        <name>45-дюймовый игровой монитор LG UltraGear™ OLED Dual-Mode 5K2K | 0.03ms (GtG), Rich Bass (10Wx2), DisplayHDR True Black 400, DP 2.1 и USB-C + Logitech G Pro X Superlight 2 DEX</name>
-        <categoryId>9</categoryId>
-        <url>https://www.lg.com/kz/monitors/ultragear-gaming-oled/45gx950a-b/</url>
-        <price>1359990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/monitors-oled-promo/45gx950a-b/45GX950A-B.ARUZ_Logitech-G-Pro-X-Superlight-2-DEX-black_450x450px.png/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="59864" available="false">
         <name>27-дюймовый игровой QHD-монитор OLED 4-го поколения LG UltraGearㅣ27GX790B с двумя режимами (720 Гц при HD, 540 Гц при QHD), 0,02 мс (серый к серому), DP2.1, VESA DisplayHDR™ «Настоящий черный 500»</name>
         <categoryId>9</categoryId>
@@ -3149,6 +3140,15 @@ Hygiene Fresh™ 461л</name>
         <price>499990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/2026-monitors/gaming-monitors/27gx790b-b/gallery/basic/ultragear-gaming-27gx790b-2026-gallery-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="40940" available="false">
+        <name>45-дюймовый игровой монитор LG UltraGear™ OLED Dual-Mode 5K2K | 0.03ms (GtG), Rich Bass (10Wx2), DisplayHDR True Black 400, DP 2.1 и USB-C + Logitech G Pro X Superlight 2 DEX</name>
+        <categoryId>9</categoryId>
+        <url>https://www.lg.com/kz/monitors/ultragear-gaming-oled/45gx950a-b/</url>
+        <price>1359990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/monitors-oled-promo/45gx950a-b/45GX950A-B.ARUZ_Logitech-G-Pro-X-Superlight-2-DEX-black_450x450px.png/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="37325" available="false">
