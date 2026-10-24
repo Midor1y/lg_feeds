@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-25 00:06">
+<yml_catalog date="2026-10-25 02:13">
   <shop>
     <name>LG Electronics Kazakhstan</name>
     <company>LG Electronics</company>
@@ -1087,6 +1087,15 @@ Hygiene Fresh™ 461л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/bottom-freezers/gc-b509fnpw/product-photos/gallery/basic450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
+      <offer id="5844" available="false">
+        <name>Холодильник GR-H802HMHL, HygieneFresh+™ 418л</name>
+        <categoryId>3</categoryId>
+        <url>https://www.lg.com/kz/refrigerators/top-freezer/gr-h802hmhl/</url>
+        <price>609990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/top-freezers/gr-h802hmhl/resized-photos/basic/350x350.png</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
       <offer id="22051" available="false">
         <name>Холодильник GN-B452SKBK
 Hygiene Fresh™ 461л</name>
@@ -1095,15 +1104,6 @@ Hygiene Fresh™ 461л</name>
         <price>514990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/top-freezers/gn-b452skbk/gallery/Basic-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="5844" available="false">
-        <name>Холодильник GR-H802HMHL, HygieneFresh+™ 418л</name>
-        <categoryId>3</categoryId>
-        <url>https://www.lg.com/kz/refrigerators/top-freezer/gr-h802hmhl/</url>
-        <price>609990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/top-freezers/gr-h802hmhl/resized-photos/basic/350x350.png</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="5842" available="false">
@@ -2107,15 +2107,6 @@ Hygiene Fresh™ 461л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/vacuum-cleaners/vk89309h_aksqcis_erok_kz_c/VK89309H_AKSQCIS_EROK_KZ_C-350x350.jpg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="5853" available="true">
-        <name>Компактный пылесос с простым контейнером, VC5420NNTS, 380 Вт</name>
-        <categoryId>5</categoryId>
-        <url>https://www.lg.com/kz/vacuum-cleaners/vc5420nnts/</url>
-        <price>62990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/vacuum-cleaners/vc5420nnts_afsqcis_erok_kz_c/VC5420NNTS_AFSQCIS_EROK_KZ_C-350x350.jpg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="6234" available="true">
         <name>Компактный пылесос с простым контейнером, VK69662N, 350 Вт</name>
         <categoryId>5</categoryId>
@@ -2123,6 +2114,15 @@ Hygiene Fresh™ 461л</name>
         <price>41990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/vacuum-cleaners/vk69662n_apbqcis_eeak_kz_c/VK69662N_APBQCIS_EEAK_KZ_C-350x350.jpg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="5853" available="true">
+        <name>Компактный пылесос с простым контейнером, VC5420NNTS, 380 Вт</name>
+        <categoryId>5</categoryId>
+        <url>https://www.lg.com/kz/vacuum-cleaners/vc5420nnts/</url>
+        <price>62990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/vacuum-cleaners/vc5420nnts_afsqcis_erok_kz_c/VC5420NNTS_AFSQCIS_EROK_KZ_C-350x350.jpg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="5719" available="true">
