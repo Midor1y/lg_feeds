@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-25 08:32">
+<yml_catalog date="2026-10-25 10:39">
   <shop>
     <name>LG Electronics Kazakhstan</name>
     <company>LG Electronics</company>
@@ -742,15 +742,6 @@ LG Side-by-Side 617л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/refrigerators/gc-b509qg9m_abeqcis_eeak_kz_c/GC-B509QG9M_ABEQCIS_EEAK_KZ_C-350x350.jpg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="42814" available="true">
-        <name>Холодильник LG GC-B277BGUM Side-by-Side 658л</name>
-        <categoryId>3</categoryId>
-        <url>https://www.lg.com/kz/refrigerators/side-by-side-refrigerators/gc-b277bgum/</url>
-        <price>849990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/side-by-side/gc-b277bgum/gallery/450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="5817" available="true">
         <name>Холодильник GC-B459SECL LG DoorCooling+™ с нижней морозильной камерой 341л</name>
         <categoryId>3</categoryId>
@@ -758,6 +749,15 @@ LG Side-by-Side 617л</name>
         <price>279990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/refrigerators/gc-b459secl_aseqcis_eeak_kz_c/GC-B459SECL_ASEQCIS_EEAK_KZ_C-350x350.jpg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="42814" available="true">
+        <name>Холодильник LG GC-B277BGUM Side-by-Side 658л</name>
+        <categoryId>3</categoryId>
+        <url>https://www.lg.com/kz/refrigerators/side-by-side-refrigerators/gc-b277bgum/</url>
+        <price>849990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/side-by-side/gc-b277bgum/gallery/450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="10013" available="false">
@@ -841,6 +841,15 @@ LG Side-by-Side 617л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/objet-collection-ref/gc-b404fapm/resized-gallery/BASIC-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
+      <offer id="5810" available="true">
+        <name>Холодильник GC-B257SMZV LG Side-by-Side 647л</name>
+        <categoryId>3</categoryId>
+        <url>https://www.lg.com/kz/refrigerators/side-by-side-refrigerators/gc-b257smzv/</url>
+        <price>739990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/refrigerators/gc-b257smzv_apzqcis_erok_kz_c/GC-B257SMZV_APZQCIS_EROK_KZ_C-350x350.jpg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
       <offer id="34430" available="true">
         <name>Холодильник GR-B922FEBM
 Hygiene Fresh™ 612л</name>
@@ -849,15 +858,6 @@ Hygiene Fresh™ 612л</name>
         <price>759990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/top-freezers/gr-b922febm/product-photos/vt1_best_gr-b922febm_se/450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="5810" available="true">
-        <name>Холодильник GC-B257SMZV LG Side-by-Side 647л</name>
-        <categoryId>3</categoryId>
-        <url>https://www.lg.com/kz/refrigerators/side-by-side-refrigerators/gc-b257smzv/</url>
-        <price>739990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/refrigerators/gc-b257smzv_apzqcis_erok_kz_c/GC-B257SMZV_APZQCIS_EROK_KZ_C-350x350.jpg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="34444" available="true">
@@ -2107,15 +2107,6 @@ Hygiene Fresh™ 461л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/vacuum-cleaners/vk89309h_aksqcis_erok_kz_c/VK89309H_AKSQCIS_EROK_KZ_C-350x350.jpg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="5853" available="true">
-        <name>Компактный пылесос с простым контейнером, VC5420NNTS, 380 Вт</name>
-        <categoryId>5</categoryId>
-        <url>https://www.lg.com/kz/vacuum-cleaners/vc5420nnts/</url>
-        <price>62990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/vacuum-cleaners/vc5420nnts_afsqcis_erok_kz_c/VC5420NNTS_AFSQCIS_EROK_KZ_C-350x350.jpg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="6234" available="true">
         <name>Компактный пылесос с простым контейнером, VK69662N, 350 Вт</name>
         <categoryId>5</categoryId>
@@ -2123,6 +2114,15 @@ Hygiene Fresh™ 461л</name>
         <price>41990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/vacuum-cleaners/vk69662n_apbqcis_eeak_kz_c/VK69662N_APBQCIS_EEAK_KZ_C-350x350.jpg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="5853" available="true">
+        <name>Компактный пылесос с простым контейнером, VC5420NNTS, 380 Вт</name>
+        <categoryId>5</categoryId>
+        <url>https://www.lg.com/kz/vacuum-cleaners/vc5420nnts/</url>
+        <price>62990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/vacuum-cleaners/vc5420nnts_afsqcis_erok_kz_c/VC5420NNTS_AFSQCIS_EROK_KZ_C-350x350.jpg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="5719" available="true">
@@ -2800,33 +2800,6 @@ Hygiene Fresh™ 461л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/b12ts_nsj_erok_kz_c/B12TS_NSJ_EROK_KZ_C-350x350.jpg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="5955" available="false">
-        <name>Кондиционер Mega Dual Plus | Технология Dual Inverter | до 36 м²</name>
-        <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/d12tt/</url>
-        <price>259990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/d09tt2_nsar_erok_kz_c/basic_450_new_image.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="9977" available="false">
-        <name>Кондиционер Mega Dual Plus | Технология Dual Inverter | до 36 м²</name>
-        <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/d12tt/</url>
-        <price>259990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/d09tt2_nsar_erok_kz_c/basic_450_new_image.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="9980" available="false">
-        <name>Кондиционер Mega Dual Plus | Технология Dual Inverter | до 36 м²</name>
-        <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/d12tt/</url>
-        <price>259990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/d09tt2_nsar_erok_kz_c/basic_450_new_image.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="5946" available="false">
         <name>Кондиционер LG ARTCOOL Mirror, AC24BK | до 72 м²</name>
         <categoryId>8</categoryId>
@@ -2852,6 +2825,33 @@ Hygiene Fresh™ 461л</name>
         <price>529990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/ac24bk_nskr_erok_kz_c/AC24BK_NSKR_EROK_KZ_C-350x350.jpg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="5955" available="false">
+        <name>Кондиционер Mega Dual Plus | Технология Dual Inverter | до 36 м²</name>
+        <categoryId>8</categoryId>
+        <url>https://www.lg.com/kz/air-conditioner/d12tt/</url>
+        <price>259990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/d09tt2_nsar_erok_kz_c/basic_450_new_image.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="9977" available="false">
+        <name>Кондиционер Mega Dual Plus | Технология Dual Inverter | до 36 м²</name>
+        <categoryId>8</categoryId>
+        <url>https://www.lg.com/kz/air-conditioner/d12tt/</url>
+        <price>259990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/d09tt2_nsar_erok_kz_c/basic_450_new_image.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="9980" available="false">
+        <name>Кондиционер Mega Dual Plus | Технология Dual Inverter | до 36 м²</name>
+        <categoryId>8</categoryId>
+        <url>https://www.lg.com/kz/air-conditioner/d12tt/</url>
+        <price>259990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/d09tt2_nsar_erok_kz_c/basic_450_new_image.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="41473" available="false">
