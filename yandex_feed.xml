@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-26 16:09">
+<yml_catalog date="2026-10-26 18:16">
   <shop>
     <name>LG Electronics Kazakhstan</name>
     <company>LG Electronics</company>
@@ -1666,24 +1666,6 @@ Hygiene Fresh™ 461л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-pdp/f2y1vs5w/F2Y1VS5W-450-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="9042" available="true">
-        <name>Стиральная машина LG 6.5 кг - DD™ | Steam™</name>
-        <categoryId>4</categoryId>
-        <url>https://www.lg.com/kz/laundry/washing-machines/f2y1ws6w-abwpcom/</url>
-        <price>204990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-pdp/f2y1ws6w/f2y1ws6w-450-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="46059" available="true">
-        <name>Стиральная машина LG 6.5 кг - DD™ | Steam™</name>
-        <categoryId>4</categoryId>
-        <url>https://www.lg.com/kz/laundry/washing-machines/f2y1ws6w-abwpcom/</url>
-        <price>204990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-pdp/f2y1ws6w/f2y1ws6w-450-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="5879" available="true">
         <name>Сушильная машина LG DC90V9V9WN с тепловым насосом 9 кг</name>
         <categoryId>4</categoryId>
@@ -1990,15 +1972,6 @@ Hygiene Fresh™ 461л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-dryer-pto/dc90v9s-f4es2m/F4X5ES2M_DC90V5V9S_450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="5785" available="false">
-        <name>Стиральная машина LG TW4V9RW9E AI DD™ 10.5 кг</name>
-        <categoryId>4</categoryId>
-        <url>https://www.lg.com/kz/laundry/washing-machines/tw4v9rw9e/</url>
-        <price>449990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/washing-machines/tw4v9rw9e_abwpcom_erok_kz_c/TW4V9RW9E_ABWPCOM_EROK_KZ_C-350x350.jpg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="8285" available="false">
         <name>Стиральная машина с сушкой LG 11/7 кг - AI DD™ | Steam™ | ThinQ™</name>
         <categoryId>4</categoryId>
@@ -2015,6 +1988,24 @@ Hygiene Fresh™ 461л</name>
         <price>529990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-pdp/tw4v5eg2s-aptpcom/gallery/basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="9042" available="false">
+        <name>Стиральная машина LG 6.5 кг - DD™ | Steam™</name>
+        <categoryId>4</categoryId>
+        <url>https://www.lg.com/kz/laundry/washing-machines/f2y1ws6w-abwpcom/</url>
+        <price>204990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-pdp/f2y1ws6w/f2y1ws6w-450-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="46059" available="false">
+        <name>Стиральная машина LG 6.5 кг - DD™ | Steam™</name>
+        <categoryId>4</categoryId>
+        <url>https://www.lg.com/kz/laundry/washing-machines/f2y1ws6w-abwpcom/</url>
+        <price>204990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-pdp/f2y1ws6w/f2y1ws6w-450-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="14834" available="false">
