@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-28 03:59">
+<yml_catalog date="2026-10-28 06:06">
   <shop>
     <name>LG Electronics Kazakhstan</name>
     <company>LG Electronics</company>
@@ -2188,15 +2188,6 @@ Hygiene Fresh™ 461л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/vacuum-cleaners/a9k-max1_bbbqcis_eeak_kz_c/A9K-MAX1_BBBQCIS_EEAK_KZ_C-350x350.jpg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="5720" available="false">
-        <name>Компактный пылесос с простым контейнером, VC5420NHTR, 380 Вт</name>
-        <categoryId>5</categoryId>
-        <url>https://www.lg.com/kz/vacuum-cleaners/vc5420nhtr/</url>
-        <price>64990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/vacuum-cleaners/vc5420nhtr_abrqcis_erok_kz_c/VC5420NHTR_ABRQCIS_EROK_KZ_C-350x350.jpg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="5850" available="false">
         <name>Беспроводной пылесос LG CordZero™ A9N-CORE , 160 Вт</name>
         <categoryId>5</categoryId>
@@ -2204,6 +2195,15 @@ Hygiene Fresh™ 461л</name>
         <price>179990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/vacuum-cleaners/a9n-core_bfsqcis_eeak_kz_c/A9N-CORE_BFSQCIS_EEAK_KZ_C-450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="5720" available="false">
+        <name>Компактный пылесос с простым контейнером, VC5420NHTR, 380 Вт</name>
+        <categoryId>5</categoryId>
+        <url>https://www.lg.com/kz/vacuum-cleaners/vc5420nhtr/</url>
+        <price>64990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/vacuum-cleaners/vc5420nhtr_abrqcis_erok_kz_c/VC5420NHTR_ABRQCIS_EROK_KZ_C-350x350.jpg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="5717" available="false">
@@ -2350,15 +2350,6 @@ Hygiene Fresh™ 461л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/microwave-ovens/ms2042db_bbkqcis_eeak_kz_c/MS2042DB_BBKQCIS_EEAK_KZ_C-350x350.jpg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="9397" available="true">
-        <name>Микроволновая печь MS2044V LG Renaissance 20л</name>
-        <categoryId>7</categoryId>
-        <url>https://www.lg.com/kz/microwave-ovens/solo-microwave-ovens/ms2044v/</url>
-        <price>57990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/microwave-ovens/ms2044v_bssqcis_erok_kz_c/ms2044v-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="5866" available="true">
         <name>Микроволновая печь MS2535GIS LG NeoChef™ 25л</name>
         <categoryId>7</categoryId>
@@ -2366,6 +2357,15 @@ Hygiene Fresh™ 461л</name>
         <price>91990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/microwave-ovens/ms2535gis_bbkqcis_eeak_kz_c/MS2535GIS_350.jpg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="9397" available="true">
+        <name>Микроволновая печь MS2044V LG Renaissance 20л</name>
+        <categoryId>7</categoryId>
+        <url>https://www.lg.com/kz/microwave-ovens/solo-microwave-ovens/ms2044v/</url>
+        <price>57990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/microwave-ovens/ms2044v_bssqcis_erok_kz_c/ms2044v-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="5863" available="true">
@@ -2908,15 +2908,6 @@ Hygiene Fresh™ 461л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/domestic-air-conditioning/ac09bk_nsjr_eeak_kz_c/AC09BK_NSJR_EEAK_KZ_C-450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="45007" available="false">
-        <name>Кондиционер LG EVO Max DC24RH | Инверторный | до 60 м²</name>
-        <categoryId>8</categoryId>
-        <url>https://www.lg.com/kz/air-conditioner/dc24rh/</url>
-        <price>431990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/rac/shared/2025-rac/dc09rh/gallery/U03_md07530262-450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="41473" available="false">
         <name>Кондиционер LG Inverter Pro | 72 м² | Охлаждение, обогрев</name>
         <categoryId>8</categoryId>
@@ -2924,6 +2915,15 @@ Hygiene Fresh™ 461л</name>
         <price>429990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/rac/shared/dualcool-inverter-pro-/gallery/basic/lg-single-split-inverter-air-conditioner-ot-2025-s3nw12tzxba-gallery-basic-large.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="45007" available="false">
+        <name>Кондиционер LG EVO Max DC24RH | Инверторный | до 60 м²</name>
+        <categoryId>8</categoryId>
+        <url>https://www.lg.com/kz/air-conditioner/dc24rh/</url>
+        <price>431990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/rac/shared/2025-rac/dc09rh/gallery/U03_md07530262-450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="13774" available="false">
@@ -3115,15 +3115,6 @@ Hygiene Fresh™ 461л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/monitors-oled-promo/34gx90sa-w/34GX90SA-W_Logitech-G-Pro-X-Superlight-2-DEX-white_450x450px.png/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="59864" available="false">
-        <name>27-дюймовый игровой QHD-монитор OLED 4-го поколения LG UltraGearㅣ27GX790B с двумя режимами (720 Гц при HD, 540 Гц при QHD), 0,02 мс (серый к серому), DP2.1, VESA DisplayHDR™ «Настоящий черный 500»</name>
-        <categoryId>9</categoryId>
-        <url>https://www.lg.com/kz/monitors/gaming/27gx790b-b/</url>
-        <price>499990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2026-monitors/gaming-monitors/27gx790b-b/gallery/basic/ultragear-gaming-27gx790b-2026-gallery-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="37326" available="false">
         <name>27-дюймовый игровой монитор LG UltraGear™ G6 с частотой обновления 200 Гц и разрешением QHD│27G610A с sRGB 99% (тип.), VESA DisplayHDR™ 400, 1 мс (GtG), HDMI 2.0</name>
         <categoryId>9</categoryId>
@@ -3131,6 +3122,15 @@ Hygiene Fresh™ 461л</name>
         <price>107990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/it-mnt-monitors/ultragear-gaming/27g610a-b/gallery/ultragear-gaming-27g610a-2025-gallery-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="59864" available="false">
+        <name>27-дюймовый игровой QHD-монитор OLED 4-го поколения LG UltraGearㅣ27GX790B с двумя режимами (720 Гц при HD, 540 Гц при QHD), 0,02 мс (серый к серому), DP2.1, VESA DisplayHDR™ «Настоящий черный 500»</name>
+        <categoryId>9</categoryId>
+        <url>https://www.lg.com/kz/monitors/gaming/27gx790b-b/</url>
+        <price>499990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2026-monitors/gaming-monitors/27gx790b-b/gallery/basic/ultragear-gaming-27gx790b-2026-gallery-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="40940" available="false">
