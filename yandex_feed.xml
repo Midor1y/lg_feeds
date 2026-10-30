@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-30 21:30">
+<yml_catalog date="2026-10-30 23:38">
   <shop>
     <name>LG Electronics Kazakhstan</name>
     <company>LG Electronics</company>
@@ -760,15 +760,6 @@ LG Side-by-Side 617л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/bottom-freezers/f-ub5/gc-b509emlm-apyqrus/gallery/GC-B509EMLM-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="5817" available="true">
-        <name>Холодильник GC-B459SECL LG DoorCooling+™ с нижней морозильной камерой 341л</name>
-        <categoryId>3</categoryId>
-        <url>https://www.lg.com/kz/refrigerators/bottom-freezer/gc-b459secl/</url>
-        <price>279990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/refrigerators/gc-b459secl_aseqcis_eeak_kz_c/GC-B459SECL_ASEQCIS_EEAK_KZ_C-350x350.jpg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="42814" available="true">
         <name>Холодильник LG GC-B277BGUM Side-by-Side 658л</name>
         <categoryId>3</categoryId>
@@ -776,6 +767,15 @@ LG Side-by-Side 617л</name>
         <price>849990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/side-by-side/gc-b277bgum/gallery/450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="5817" available="true">
+        <name>Холодильник GC-B459SECL LG DoorCooling+™ с нижней морозильной камерой 341л</name>
+        <categoryId>3</categoryId>
+        <url>https://www.lg.com/kz/refrigerators/bottom-freezer/gc-b459secl/</url>
+        <price>279990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/refrigerators/gc-b459secl_aseqcis_eeak_kz_c/GC-B459SECL_ASEQCIS_EEAK_KZ_C-350x350.jpg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="5822" available="true">
