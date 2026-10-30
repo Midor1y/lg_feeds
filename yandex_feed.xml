@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-10-30 17:15">
+<yml_catalog date="2026-10-30 19:21">
   <shop>
     <name>LG Electronics Kazakhstan</name>
     <company>LG Electronics</company>
@@ -33,7 +33,7 @@
         <name>86-дюймовый телевизор Smart TV LG QNED evo AI QNED85 Mini LED 4K 2026</name>
         <categoryId>1</categoryId>
         <url>https://www.lg.com/kz/tvs-soundbars/qned-evo/86qned85b6c/</url>
-        <price>1459990</price>
+        <price>1313990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/qned-evo/qned85/gp1/gallery/86-qned85/basic/lg-qned-evo-qned85-2026-86-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
@@ -42,7 +42,7 @@
         <name>86-дюймовый телевизор Smart TV LG QNED evo AI QNED85 Mini LED 4K 2026</name>
         <categoryId>1</categoryId>
         <url>https://www.lg.com/kz/tvs-soundbars/qned-evo/86qned85b6c/</url>
-        <price>1459990</price>
+        <price>1313990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/qned-evo/qned85/gp1/gallery/86-qned85/basic/lg-qned-evo-qned85-2026-86-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
@@ -51,7 +51,7 @@
         <name>86-дюймовый телевизор Smart TV LG QNED evo AI QNED85 Mini LED 4K 2026</name>
         <categoryId>1</categoryId>
         <url>https://www.lg.com/kz/tvs-soundbars/qned-evo/86qned85b6c/</url>
-        <price>1459990</price>
+        <price>1313990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/qned-evo/qned85/gp1/gallery/86-qned85/basic/lg-qned-evo-qned85-2026-86-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
@@ -60,7 +60,7 @@
         <name>86-дюймовый телевизор Smart TV LG QNED evo AI QNED85 Mini LED 4K 2026</name>
         <categoryId>1</categoryId>
         <url>https://www.lg.com/kz/tvs-soundbars/qned-evo/86qned85b6c/</url>
-        <price>1459990</price>
+        <price>1313990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/qned-evo/qned85/gp1/gallery/86-qned85/basic/lg-qned-evo-qned85-2026-86-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
@@ -706,15 +706,6 @@ LG Side-by-Side 617л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/refrigerators/ga-b459sqcl_aswqcis_eeak_kz_c/GA-B459SQCL_ASWQCIS_EEAK_KZ_C-350x350.jpg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="43306" available="true">
-        <name>Холодильник с нижней морозильной камерой LG B509EELM с технологией Zero Clearance™, 375 л</name>
-        <categoryId>3</categoryId>
-        <url>https://www.lg.com/kz/refrigerators/bottom-freezer/gc-b509eelm/</url>
-        <price>364990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/bottom-freezers/f-ub5/gc-b509eelm-aseqrus/gallery/GC-B509EELM-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="5824" available="true">
         <name>Холодильник GC-B509SECL LG DoorCooling+ с нижней морозильной камерой 384 л</name>
         <categoryId>3</categoryId>
@@ -722,6 +713,15 @@ LG Side-by-Side 617л</name>
         <price>299990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/refrigerators/gc-b509secl_aseqcis_erok_kz_c/GC-B509SECL_ASEQCIS_EROK_KZ_C-350x350.jpg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="43306" available="true">
+        <name>Холодильник с нижней морозильной камерой LG B509EELM с технологией Zero Clearance™, 375 л</name>
+        <categoryId>3</categoryId>
+        <url>https://www.lg.com/kz/refrigerators/bottom-freezer/gc-b509eelm/</url>
+        <price>364990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/bottom-freezers/f-ub5/gc-b509eelm-aseqrus/gallery/GC-B509EELM-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="43305" available="true">
@@ -812,6 +812,15 @@ LG Side-by-Side 617л</name>
         <price>814990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/side-by-side/gc-b277bpum/gallery/new-update/450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="5841" available="false">
+        <name>Холодильник GR-A24FQAKM LG Objet 527л</name>
+        <categoryId>3</categoryId>
+        <url>https://www.lg.com/kz/refrigerators/objet-collection-refrigerators/gr-a24fqakm/</url>
+        <price>1799990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/pdp-plp-update-instaview-without-cosmetic/450x450/GR-A24FQAKM_450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="10086" available="true">
@@ -977,15 +986,6 @@ Hygiene Fresh™ 612л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/pdp-plp-update-instaview-without-cosmetic/new/450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="38178" available="false">
-        <name>Холодильник GC-B257KBHW LG Side-by-Side 658л</name>
-        <categoryId>3</categoryId>
-        <url>https://www.lg.com/kz/refrigerators/side-by-side-refrigerators/gc-b257kbhw/</url>
-        <price>769990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/side-by-side/gc-b257kbhw/all/gc-b257kbhw-01-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="5877" available="false">
         <name>Холодильник GC-B509MLWM LG DoorCooling+™ 384л</name>
         <categoryId>3</categoryId>
@@ -995,13 +995,13 @@ Hygiene Fresh™ 612л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/bottom-freezers/gc-b509mlwm/gc-b509mlwm_gallery_images/450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="5841" available="false">
-        <name>Холодильник GR-A24FQAKM LG Objet 527л</name>
+      <offer id="38178" available="false">
+        <name>Холодильник GC-B257KBHW LG Side-by-Side 658л</name>
         <categoryId>3</categoryId>
-        <url>https://www.lg.com/kz/refrigerators/objet-collection-refrigerators/gr-a24fqakm/</url>
-        <price>1799990</price>
+        <url>https://www.lg.com/kz/refrigerators/side-by-side-refrigerators/gc-b257kbhw/</url>
+        <price>769990</price>
         <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/pdp-plp-update-instaview-without-cosmetic/450x450/GR-A24FQAKM_450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/side-by-side/gc-b257kbhw/all/gc-b257kbhw-01-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="9728" available="false">
