@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-03 04:49">
+<yml_catalog date="2026-11-03 09:02">
   <shop>
     <name>LG Electronics Kazakhstan</name>
     <company>LG Electronics</company>
@@ -108,6 +108,33 @@
         <price>1399990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/oled-evo/c6/gp1/gallery/65-c6/gallery/450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="43501" available="true">
+        <name>65-дюймовый телевизор Smart TV LG NANO 4K UHD AI NU85 2026 + LG Soundbar S30A с WOW Orchestra и WOW Interface</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/nanocell/65nu850b6la-s30a/</url>
+        <price>439985</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/a_tv_av/tv_and-_sb_pto/nano/65nu850b6la-s30a/450x450px.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="45535" available="true">
+        <name>65-дюймовый телевизор Smart TV LG NANO 4K UHD AI NU85 2026 + LG Soundbar S30A с WOW Orchestra и WOW Interface</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/nanocell/65nu850b6la-s30a/</url>
+        <price>439985</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/a_tv_av/tv_and-_sb_pto/nano/65nu850b6la-s30a/450x450px.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="53241" available="true">
+        <name>65-дюймовый телевизор Smart TV LG NANO 4K UHD AI NU85 2026 + LG Soundbar S30A с WOW Orchestra и WOW Interface</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/nanocell/65nu850b6la-s30a/</url>
+        <price>439985</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/a_tv_av/tv_and-_sb_pto/nano/65nu850b6la-s30a/450x450px.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="43546" available="true">
@@ -254,6 +281,42 @@
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/2026-tvs/qned-evo/qned80/gallery/65-qned80/basic/lg-qned-evo-qned80-2026-65-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
+      <offer id="10379" available="true">
+        <name>65 дюймовый телевизор Smart TV LG OLED evo AI G5 4K 2025 года</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/oled-evo/oled65g5rla/</url>
+        <price>1499990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/oled-evo/g5/gp1/gallery/65-g5-a/basic/oled-g5-2025-65-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="11014" available="true">
+        <name>65 дюймовый телевизор Smart TV LG OLED evo AI G5 4K 2025 года</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/oled-evo/oled65g5rla/</url>
+        <price>1499990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/oled-evo/g5/gp1/gallery/65-g5-a/basic/oled-g5-2025-65-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="22635" available="true">
+        <name>65 дюймовый телевизор Smart TV LG OLED evo AI G5 4K 2025 года</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/oled-evo/oled65g5rla/</url>
+        <price>1499990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/oled-evo/g5/gp1/gallery/65-g5-a/basic/oled-g5-2025-65-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="22716" available="true">
+        <name>65 дюймовый телевизор Smart TV LG OLED evo AI G5 4K 2025 года</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/oled-evo/oled65g5rla/</url>
+        <price>1499990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/oled-evo/g5/gp1/gallery/65-g5-a/basic/oled-g5-2025-65-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
       <offer id="6911" available="true">
         <name>Саундбар LG SG10TY</name>
         <categoryId>1</categoryId>
@@ -344,33 +407,6 @@
         <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/oled/b6e/gp1/gallery/450x450px.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="43501" available="false">
-        <name>65-дюймовый телевизор Smart TV LG NANO 4K UHD AI NU85 2026 + LG Soundbar S30A с WOW Orchestra и WOW Interface</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/nanocell/65nu850b6la-s30a/</url>
-        <price>439985</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/a_tv_av/tv_and-_sb_pto/nano/65nu850b6la-s30a/450x450px.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="45535" available="false">
-        <name>65-дюймовый телевизор Smart TV LG NANO 4K UHD AI NU85 2026 + LG Soundbar S30A с WOW Orchestra и WOW Interface</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/nanocell/65nu850b6la-s30a/</url>
-        <price>439985</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/a_tv_av/tv_and-_sb_pto/nano/65nu850b6la-s30a/450x450px.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="53241" available="false">
-        <name>65-дюймовый телевизор Smart TV LG NANO 4K UHD AI NU85 2026 + LG Soundbar S30A с WOW Orchestra и WOW Interface</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/nanocell/65nu850b6la-s30a/</url>
-        <price>439985</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/a_tv_av/tv_and-_sb_pto/nano/65nu850b6la-s30a/450x450px.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="10370" available="false">
         <name>65 дюймовый телевизор Smart TV LG OLED evo AI C5 4K 2025 года</name>
         <categoryId>1</categoryId>
@@ -441,42 +477,6 @@
         <price>459990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/nanocell/nano80/gp1/gallery/65-nano80-a/animation/nanocell-nano80-2025-65-animation-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="10379" available="false">
-        <name>65 дюймовый телевизор Smart TV LG OLED evo AI G5 4K 2025 года</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/oled-evo/oled65g5rla/</url>
-        <price>1499990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/oled-evo/g5/gp1/gallery/65-g5-a/basic/oled-g5-2025-65-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="11014" available="false">
-        <name>65 дюймовый телевизор Smart TV LG OLED evo AI G5 4K 2025 года</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/oled-evo/oled65g5rla/</url>
-        <price>1499990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/oled-evo/g5/gp1/gallery/65-g5-a/basic/oled-g5-2025-65-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="22635" available="false">
-        <name>65 дюймовый телевизор Smart TV LG OLED evo AI G5 4K 2025 года</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/oled-evo/oled65g5rla/</url>
-        <price>1499990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/oled-evo/g5/gp1/gallery/65-g5-a/basic/oled-g5-2025-65-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="22716" available="false">
-        <name>65 дюймовый телевизор Smart TV LG OLED evo AI G5 4K 2025 года</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/oled-evo/oled65g5rla/</url>
-        <price>1499990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/oled-evo/g5/gp1/gallery/65-g5-a/basic/oled-g5-2025-65-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="43516" available="false">
@@ -814,15 +814,6 @@ LG Side-by-Side 617л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/bottom-freezers/gc-b509ftzw/feature-cards/gallery/01-basic/450-x-450/01-ref-f-vb-gc-b509fszw-front-450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="38179" available="true">
-        <name>Холодильник LG GC-B277BPUM Side-by-Side 658л</name>
-        <categoryId>3</categoryId>
-        <url>https://www.lg.com/kz/refrigerators/side-by-side-refrigerators/gc-b277bpum/</url>
-        <price>814990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/side-by-side/gc-b277bpum/gallery/new-update/450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="10086" available="true">
         <name>Многодверный холодильник LG GC-V22FFMMB 458л</name>
         <categoryId>3</categoryId>
@@ -986,6 +977,15 @@ Hygiene Fresh™ 612л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/pdp-plp-update-instaview-without-cosmetic/new/450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
+      <offer id="38179" available="false">
+        <name>Холодильник LG GC-B277BPUM Side-by-Side 658л</name>
+        <categoryId>3</categoryId>
+        <url>https://www.lg.com/kz/refrigerators/side-by-side-refrigerators/gc-b277bpum/</url>
+        <price>814990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/side-by-side/gc-b277bpum/gallery/new-update/450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
       <offer id="5877" available="false">
         <name>Холодильник GC-B509MLWM LG DoorCooling+™ 384л</name>
         <categoryId>3</categoryId>
@@ -1013,6 +1013,15 @@ Hygiene Fresh™ 612л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/side-by-side/gc-b257kehw/product-photos/gallery/GC-B257KEHW-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
+      <offer id="14095" available="false">
+        <name>Многодверный холодильник LG GC-V24FFCHB 605л</name>
+        <categoryId>3</categoryId>
+        <url>https://www.lg.com/kz/refrigerators/multi-door-fridge-freezers/gc-v24ffchb/</url>
+        <price>1049990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/pdp-plp-update-instaview-without-cosmetic/450x450/GC-V24FFCHB_450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
       <offer id="22049" available="false">
         <name>Холодильник GN-B452SMBK
 Hygiene Fresh™ 461л</name>
@@ -1021,15 +1030,6 @@ Hygiene Fresh™ 461л</name>
         <price>509990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/top-freezers/gn-b452smbk/gallery/Basic-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="14095" available="false">
-        <name>Многодверный холодильник LG GC-V24FFCHB 605л</name>
-        <categoryId>3</categoryId>
-        <url>https://www.lg.com/kz/refrigerators/multi-door-fridge-freezers/gc-v24ffchb/</url>
-        <price>1049990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/pdp-plp-update-instaview-without-cosmetic/450x450/GC-V24FFCHB_450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="5811" available="false">
@@ -1558,6 +1558,15 @@ Hygiene Fresh™ 461л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/washing-machines/f2y1ns6w/gallery/basic-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
+      <offer id="15072" available="true">
+        <name>Стиральная машина LG 7 кг - AI DD™</name>
+        <categoryId>4</categoryId>
+        <url>https://www.lg.com/kz/laundry/washing-machines/f2v5hs5w/</url>
+        <price>244990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-pdp/f2v5hs5w/f2v5hs5w-gallery/f2v5hs5w-resized/Basic_450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
       <offer id="5740" available="true">
         <name>Стиральная машина 9 кг и сушильная машина 9 кг в комплекте | DC90V5V0W.F4V5VA</name>
         <categoryId>4</categoryId>
@@ -1826,15 +1835,6 @@ Hygiene Fresh™ 461л</name>
         <price>339990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/washing-machines/f2v3fr6w/BASIC_450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="15072" available="false">
-        <name>Стиральная машина LG 7 кг - AI DD™</name>
-        <categoryId>4</categoryId>
-        <url>https://www.lg.com/kz/laundry/washing-machines/f2v5hs5w/</url>
-        <price>244990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-pdp/f2v5hs5w/f2v5hs5w-gallery/f2v5hs5w-resized/Basic_450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="5704" available="false">
