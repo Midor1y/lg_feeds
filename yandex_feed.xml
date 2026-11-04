@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-04 08:14">
+<yml_catalog date="2026-11-04 10:21">
   <shop>
     <name>LG Electronics Kazakhstan</name>
     <company>LG Electronics</company>
@@ -3097,6 +3097,15 @@ Hygiene Fresh™ 461л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/sac-id-it-rac/it-mnt-monitors/ultragear-gaming/27g610a-b/gallery/ultragear-gaming-27g610a-2025-gallery-basic-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
+      <offer id="44154" available="true">
+        <name>31,5-дюймовый LG Smart Monitor Swing 4K UHD IPS с сенсорным экраном и мобильной стойкой</name>
+        <categoryId>9</categoryId>
+        <url>https://www.lg.com/kz/monitors/smart/32u889sa-b/</url>
+        <price>549990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2026-monitors/32u889sa/gallery/basic/smart-monitor-32u889sa-2025-gallery-swing-gallery-basic-large.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
       <offer id="37325" available="true">
         <name>32-дюймовый изогнутый игровой монитор LG UltraGear™ с разрешением QHD, частотой обновления 180 Гц и временем отклика 1 мс GtG</name>
         <categoryId>9</categoryId>
@@ -3185,15 +3194,6 @@ Hygiene Fresh™ 461л</name>
         <price>1359990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/monitors-oled-promo/45gx950a-b/45GX950A-B.ARUZ_Logitech-G-Pro-X-Superlight-2-DEX-black_450x450px.png/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="44154" available="false">
-        <name>31,5-дюймовый LG Smart Monitor Swing 4K UHD IPS с сенсорным экраном и мобильной стойкой</name>
-        <categoryId>9</categoryId>
-        <url>https://www.lg.com/kz/monitors/smart/32u889sa-b/</url>
-        <price>549990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/2026-monitors/32u889sa/gallery/basic/smart-monitor-32u889sa-2025-gallery-swing-gallery-basic-large.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="47164" available="false">
