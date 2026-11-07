@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-07 14:31">
+<yml_catalog date="2026-11-07 16:38">
   <shop>
     <name>LG Electronics Kazakhstan</name>
     <company>LG Electronics</company>
@@ -29,7 +29,7 @@
         <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/oled/b6e/gp1/gallery/55-b6e/basic/lg-oled-b6e-2026-55-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="46613" available="true">
+      <offer id="46613" available="false">
         <name>77-дюймовый телевизор Smart TV LG OLED evo AI G6 4K 2026</name>
         <categoryId>1</categoryId>
         <url>https://www.lg.com/kz/tvs-soundbars/oled-evo/oled77g6rla/</url>
@@ -326,33 +326,6 @@
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/lg-com-kit/audio/2026/s30a/gallery/basic/soundbar-s30a-2025-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="43509" available="true">
-        <name>65-дюймовый телевизор Smart TV LG QNED evo AI QNED85 Mini LED 4K 2026 + Саундбар S30A</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/qned-evo/65qned85b6c-s30a/</url>
-        <price>699985</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/a_tv_av/tv_and-_sb_pto/qned/65qned85b6c-s30a/65qned85b6c-s30a-450x450px.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="45568" available="true">
-        <name>65-дюймовый телевизор Smart TV LG QNED evo AI QNED85 Mini LED 4K 2026 + Саундбар S30A</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/qned-evo/65qned85b6c-s30a/</url>
-        <price>699985</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/a_tv_av/tv_and-_sb_pto/qned/65qned85b6c-s30a/65qned85b6c-s30a-450x450px.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="53243" available="true">
-        <name>65-дюймовый телевизор Smart TV LG QNED evo AI QNED85 Mini LED 4K 2026 + Саундбар S30A</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/qned-evo/65qned85b6c-s30a/</url>
-        <price>699985</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/a_tv_av/tv_and-_sb_pto/qned/65qned85b6c-s30a/65qned85b6c-s30a-450x450px.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="65627" available="true">
         <name>77-дюймовый умный телевизор LG OLED AI B6E 4K 2026 + Саундбар LG S70TY</name>
         <categoryId>1</categoryId>
@@ -549,6 +522,33 @@
         <price>599990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/2025_ms_lg-com/tv/qned/qned70/gp1/gallery/75-qned70-a/animation/qned-qned70-2025-75-animation-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="43509" available="false">
+        <name>65-дюймовый телевизор Smart TV LG QNED evo AI QNED85 Mini LED 4K 2026 + Саундбар S30A</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/qned-evo/65qned85b6c-s30a/</url>
+        <price>699985</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/a_tv_av/tv_and-_sb_pto/qned/65qned85b6c-s30a/65qned85b6c-s30a-450x450px.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="45568" available="false">
+        <name>65-дюймовый телевизор Smart TV LG QNED evo AI QNED85 Mini LED 4K 2026 + Саундбар S30A</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/qned-evo/65qned85b6c-s30a/</url>
+        <price>699985</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/a_tv_av/tv_and-_sb_pto/qned/65qned85b6c-s30a/65qned85b6c-s30a-450x450px.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="53243" available="false">
+        <name>65-дюймовый телевизор Smart TV LG QNED evo AI QNED85 Mini LED 4K 2026 + Саундбар S30A</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/qned-evo/65qned85b6c-s30a/</url>
+        <price>699985</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/a_tv_av/tv_and-_sb_pto/qned/65qned85b6c-s30a/65qned85b6c-s30a-450x450px.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="6910" available="false">
@@ -967,15 +967,6 @@ LG Side-by-Side 617л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/side-by-side/gc-b257kmhw/product-photos/gallery/basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="5809" available="true">
-        <name>Холодильник GC-B257SEZV LG Side-by-Side на 647л</name>
-        <categoryId>3</categoryId>
-        <url>https://www.lg.com/kz/refrigerators/side-by-side-refrigerators/gc-b257sezv/</url>
-        <price>709990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/refrigerators/gc-b257sezv_aseqcis_erok_kz_c/GC-B257SEZV_ASEQCIS_EROK_KZ_C-350x350.jpg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="34430" available="true">
         <name>Холодильник GR-B922FEBM
 Hygiene Fresh™ 612л</name>
@@ -984,6 +975,15 @@ Hygiene Fresh™ 612л</name>
         <price>759990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/top-freezers/gr-b922febm/product-photos/vt1_best_gr-b922febm_se/450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="5809" available="true">
+        <name>Холодильник GC-B257SEZV LG Side-by-Side на 647л</name>
+        <categoryId>3</categoryId>
+        <url>https://www.lg.com/kz/refrigerators/side-by-side-refrigerators/gc-b257sezv/</url>
+        <price>709990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/refrigerators/gc-b257sezv_aseqcis_erok_kz_c/GC-B257SEZV_ASEQCIS_EROK_KZ_C-350x350.jpg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="6902" available="true">
