@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-12 17:44">
+<yml_catalog date="2026-11-12 19:51">
   <shop>
     <name>LG Electronics Kazakhstan</name>
     <company>LG Electronics</company>
@@ -29,13 +29,22 @@
         <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/oled/b6e/gp1/gallery/55-b6e/basic/lg-oled-b6e-2026-55-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="46613" available="false">
-        <name>77-дюймовый телевизор Smart TV LG OLED evo AI G6 4K 2026</name>
+      <offer id="43500" available="true">
+        <name>65-дюймовый телевизор Smart TV LG OLED evo AI G6 4K 2026</name>
         <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/oled-evo/oled77g6rla/</url>
-        <price>2499990</price>
+        <url>https://www.lg.com/kz/tvs-soundbars/oled-evo/oled65g6rla/</url>
+        <price>1749990</price>
         <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/oled-evo/g6/gp1/gallery/77-g6/basic/450x450px_G6RLA.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/oled-evo/g6/gp1/gallery/65-g6/basic/450x450px_G6RLA.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="45569" available="true">
+        <name>65-дюймовый телевизор Smart TV LG OLED evo AI G6 4K 2026</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/oled-evo/oled65g6rla/</url>
+        <price>1749990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/oled-evo/g6/gp1/gallery/65-g6/basic/450x450px_G6RLA.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="43510" available="true">
@@ -63,15 +72,6 @@
         <price>294990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/nano-4k-uhd/nu85/gp1/gallery/55-nu85/new/55NU850B6LA_Magic-remote-resize_450x450px.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="67792" available="true">
-        <name>83-дюймовый телевизор Smart TV Wallpaper TV LG OLED evo AI W6 True Wireless 4K, 2026 г.</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/oled-evo/oled83w69la/</url>
-        <price>4399990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/oled-evo/w6/gp1/gallery/83-w6/basic/450x450px_OLED83W69LA.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="43505" available="true">
@@ -297,6 +297,15 @@
         <price>1852485</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/oled/b6e/gp1/gallery/450x450px.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="67792" available="false">
+        <name>83-дюймовый телевизор Smart TV Wallpaper TV LG OLED evo AI W6 True Wireless 4K, 2026 г.</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/oled-evo/oled83w69la/</url>
+        <price>4399990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/oled-evo/w6/gp1/gallery/83-w6/basic/450x450px_OLED83W69LA.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="43501" available="false">
@@ -903,15 +912,6 @@ LG Side-by-Side 617л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/refrigerators/gc-b399smcl_apzqcis_eeak_kz_c/GC-B399SMCL_APZQCIS_EEAK_KZ_C-350x350.jpg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="5809" available="true">
-        <name>Холодильник GC-B257SEZV LG Side-by-Side на 647л</name>
-        <categoryId>3</categoryId>
-        <url>https://www.lg.com/kz/refrigerators/side-by-side-refrigerators/gc-b257sezv/</url>
-        <price>709990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/refrigerators/gc-b257sezv_aseqcis_erok_kz_c/GC-B257SEZV_ASEQCIS_EROK_KZ_C-350x350.jpg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="9727" available="true">
         <name>Холодильник GC-B257KMHW LG Side-by-Side 658л</name>
         <categoryId>3</categoryId>
@@ -919,6 +919,15 @@ LG Side-by-Side 617л</name>
         <price>659990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/side-by-side/gc-b257kmhw/product-photos/gallery/basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="5809" available="true">
+        <name>Холодильник GC-B257SEZV LG Side-by-Side на 647л</name>
+        <categoryId>3</categoryId>
+        <url>https://www.lg.com/kz/refrigerators/side-by-side-refrigerators/gc-b257sezv/</url>
+        <price>709990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/refrigerators/gc-b257sezv_aseqcis_erok_kz_c/GC-B257SEZV_ASEQCIS_EROK_KZ_C-350x350.jpg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="5813" available="true">
