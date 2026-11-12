@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-12 11:22">
+<yml_catalog date="2026-11-12 13:29">
   <shop>
     <name>LG Electronics Kazakhstan</name>
     <company>LG Electronics</company>
@@ -912,15 +912,6 @@ LG Side-by-Side 617л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/refrigerators/gc-b399smcl_apzqcis_eeak_kz_c/GC-B399SMCL_APZQCIS_EEAK_KZ_C-350x350.jpg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="5809" available="true">
-        <name>Холодильник GC-B257SEZV LG Side-by-Side на 647л</name>
-        <categoryId>3</categoryId>
-        <url>https://www.lg.com/kz/refrigerators/side-by-side-refrigerators/gc-b257sezv/</url>
-        <price>709990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/refrigerators/gc-b257sezv_aseqcis_erok_kz_c/GC-B257SEZV_ASEQCIS_EROK_KZ_C-350x350.jpg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="9727" available="true">
         <name>Холодильник GC-B257KMHW LG Side-by-Side 658л</name>
         <categoryId>3</categoryId>
@@ -928,6 +919,15 @@ LG Side-by-Side 617л</name>
         <price>659990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/side-by-side/gc-b257kmhw/product-photos/gallery/basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="5809" available="true">
+        <name>Холодильник GC-B257SEZV LG Side-by-Side на 647л</name>
+        <categoryId>3</categoryId>
+        <url>https://www.lg.com/kz/refrigerators/side-by-side-refrigerators/gc-b257sezv/</url>
+        <price>709990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/refrigerators/gc-b257sezv_aseqcis_erok_kz_c/GC-B257SEZV_ASEQCIS_EROK_KZ_C-350x350.jpg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="5813" available="true">
