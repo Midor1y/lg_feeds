@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-17 10:22">
+<yml_catalog date="2026-11-17 12:29">
   <shop>
     <name>LG Electronics Kazakhstan</name>
     <company>LG Electronics</company>
@@ -868,24 +868,6 @@ LG Side-by-Side 617л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/pdp-plp-update-instaview-without-cosmetic/new/450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="10086" available="true">
-        <name>Многодверный холодильник LG GC-V22FFMMB 458л</name>
-        <categoryId>3</categoryId>
-        <url>https://www.lg.com/kz/refrigerators/multi-door-fridge-freezers/gc-v22ffmmb/</url>
-        <price>769990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/pdp-plp-update-instaview-without-cosmetic/450x450/GC-V22FFMMB_450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="5841" available="false">
-        <name>Холодильник GR-A24FQAKM LG Objet 527л</name>
-        <categoryId>3</categoryId>
-        <url>https://www.lg.com/kz/refrigerators/objet-collection-refrigerators/gr-a24fqakm/</url>
-        <price>1799990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/pdp-plp-update-instaview-without-cosmetic/450x450/GR-A24FQAKM_450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="5711" available="true">
         <name>Холодильник GC-B399SQCL LG DoorCooling+™ 306л</name>
         <categoryId>3</categoryId>
@@ -1057,6 +1039,15 @@ LG Side-by-Side 617л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/side-by-side/gc-b277bpum/gallery/new-update/450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
+      <offer id="10086" available="false">
+        <name>Многодверный холодильник LG GC-V22FFMMB 458л</name>
+        <categoryId>3</categoryId>
+        <url>https://www.lg.com/kz/refrigerators/multi-door-fridge-freezers/gc-v22ffmmb/</url>
+        <price>769990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/pdp-plp-update-instaview-without-cosmetic/450x450/GC-V22FFMMB_450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
       <offer id="5877" available="false">
         <name>Холодильник GC-B509MLWM LG DoorCooling+™ 384л</name>
         <categoryId>3</categoryId>
@@ -1064,6 +1055,15 @@ LG Side-by-Side 617л</name>
         <price>329990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/bottom-freezers/gc-b509mlwm/gc-b509mlwm_gallery_images/450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="5841" available="false">
+        <name>Холодильник GR-A24FQAKM LG Objet 527л</name>
+        <categoryId>3</categoryId>
+        <url>https://www.lg.com/kz/refrigerators/objet-collection-refrigerators/gr-a24fqakm/</url>
+        <price>1799990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/pdp-plp-update-instaview-without-cosmetic/450x450/GR-A24FQAKM_450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="38178" available="false">
@@ -1693,69 +1693,6 @@ Hygiene Fresh™ 461л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-pdp/tw4v5es0w-abwpcom/tw4v5es0w-gallery/basic/350x350.png</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="5740" available="true">
-        <name>Сушильная машина LG DC90V5V0W с тепловым насосом 9 кг</name>
-        <categoryId>4</categoryId>
-        <url>https://www.lg.com/kz/laundry/dryers/dc90v5v0w/</url>
-        <price>429990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/dryer-pdp/dc90v5v0w/gallery-dc90v5v0w/450-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="6894" available="true">
-        <name>Сушильная машина LG DC90V5V0W с тепловым насосом 9 кг</name>
-        <categoryId>4</categoryId>
-        <url>https://www.lg.com/kz/laundry/dryers/dc90v5v0w/</url>
-        <price>429990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/dryer-pdp/dc90v5v0w/gallery-dc90v5v0w/450-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="26417" available="true">
-        <name>Сушильная машина LG DC90V5V0W с тепловым насосом 9 кг</name>
-        <categoryId>4</categoryId>
-        <url>https://www.lg.com/kz/laundry/dryers/dc90v5v0w/</url>
-        <price>429990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/dryer-pdp/dc90v5v0w/gallery-dc90v5v0w/450-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="26423" available="true">
-        <name>Сушильная машина LG DC90V5V0W с тепловым насосом 9 кг</name>
-        <categoryId>4</categoryId>
-        <url>https://www.lg.com/kz/laundry/dryers/dc90v5v0w/</url>
-        <price>429990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/dryer-pdp/dc90v5v0w/gallery-dc90v5v0w/450-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="26435" available="true">
-        <name>Сушильная машина LG DC90V5V0W с тепловым насосом 9 кг</name>
-        <categoryId>4</categoryId>
-        <url>https://www.lg.com/kz/laundry/dryers/dc90v5v0w/</url>
-        <price>429990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/dryer-pdp/dc90v5v0w/gallery-dc90v5v0w/450-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="26436" available="true">
-        <name>Сушильная машина LG DC90V5V0W с тепловым насосом 9 кг</name>
-        <categoryId>4</categoryId>
-        <url>https://www.lg.com/kz/laundry/dryers/dc90v5v0w/</url>
-        <price>429990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/dryer-pdp/dc90v5v0w/gallery-dc90v5v0w/450-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="41340" available="true">
-        <name>Сушильная машина LG DC90V5V0W с тепловым насосом 9 кг</name>
-        <categoryId>4</categoryId>
-        <url>https://www.lg.com/kz/laundry/dryers/dc90v5v0w/</url>
-        <price>429990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/dryer-pdp/dc90v5v0w/gallery-dc90v5v0w/450-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="5700" available="true">
         <name>Стиральная машина LG 9 кг - AIDD™ | Steam™ | Элегантный дизайн</name>
         <categoryId>4</categoryId>
@@ -1853,6 +1790,69 @@ Hygiene Fresh™ 461л</name>
         <price>379990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-pdp/f2x5fs2m/f2x5fs2m-gallery/new/f2x5fyn26-f2x5fs2m-front-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="5740" available="false">
+        <name>Стиральная машина 9 кг и сушильная машина 9 кг в комплекте | DC90V5V0W.F4V5VA</name>
+        <categoryId>4</categoryId>
+        <url>https://www.lg.com/kz/laundry/washer-and-dryer-set/dc90v5v0w-f4v5va/</url>
+        <price>744980</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-dryer-pto/dc90v5v0w-f4v5v/DC90V5V0W.F4V5V-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="6894" available="false">
+        <name>Стиральная машина 9 кг и сушильная машина 9 кг в комплекте | DC90V5V0W.F4V5VA</name>
+        <categoryId>4</categoryId>
+        <url>https://www.lg.com/kz/laundry/washer-and-dryer-set/dc90v5v0w-f4v5va/</url>
+        <price>744980</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-dryer-pto/dc90v5v0w-f4v5v/DC90V5V0W.F4V5V-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="26417" available="false">
+        <name>Стиральная машина 9 кг и сушильная машина 9 кг в комплекте | DC90V5V0W.F4V5VA</name>
+        <categoryId>4</categoryId>
+        <url>https://www.lg.com/kz/laundry/washer-and-dryer-set/dc90v5v0w-f4v5va/</url>
+        <price>744980</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-dryer-pto/dc90v5v0w-f4v5v/DC90V5V0W.F4V5V-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="26423" available="false">
+        <name>Стиральная машина 9 кг и сушильная машина 9 кг в комплекте | DC90V5V0W.F4V5VA</name>
+        <categoryId>4</categoryId>
+        <url>https://www.lg.com/kz/laundry/washer-and-dryer-set/dc90v5v0w-f4v5va/</url>
+        <price>744980</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-dryer-pto/dc90v5v0w-f4v5v/DC90V5V0W.F4V5V-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="26435" available="false">
+        <name>Стиральная машина 9 кг и сушильная машина 9 кг в комплекте | DC90V5V0W.F4V5VA</name>
+        <categoryId>4</categoryId>
+        <url>https://www.lg.com/kz/laundry/washer-and-dryer-set/dc90v5v0w-f4v5va/</url>
+        <price>744980</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-dryer-pto/dc90v5v0w-f4v5v/DC90V5V0W.F4V5V-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="26436" available="false">
+        <name>Стиральная машина 9 кг и сушильная машина 9 кг в комплекте | DC90V5V0W.F4V5VA</name>
+        <categoryId>4</categoryId>
+        <url>https://www.lg.com/kz/laundry/washer-and-dryer-set/dc90v5v0w-f4v5va/</url>
+        <price>744980</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-dryer-pto/dc90v5v0w-f4v5v/DC90V5V0W.F4V5V-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="41340" available="false">
+        <name>Стиральная машина 9 кг и сушильная машина 9 кг в комплекте | DC90V5V0W.F4V5VA</name>
+        <categoryId>4</categoryId>
+        <url>https://www.lg.com/kz/laundry/washer-and-dryer-set/dc90v5v0w-f4v5va/</url>
+        <price>744980</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-dryer-pto/dc90v5v0w-f4v5v/DC90V5V0W.F4V5V-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="51443" available="false">
