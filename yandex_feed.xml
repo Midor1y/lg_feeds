@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-18 05:23">
+<yml_catalog date="2026-11-18 07:30">
   <shop>
     <name>LG Electronics Kazakhstan</name>
     <company>LG Electronics</company>
@@ -189,15 +189,6 @@
         <price>1799990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/mini-rgb-evo/mrgb85/gp1/gallery/86-mrgb85/basic/lg-mini-rgb-evo-mrgb85-2026-86-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="57175" available="true">
-        <name>32-дюймовый телевизор LG SMART TV AI LB65 FHD 2026</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/smart-tvs/32lb650b6la/</url>
-        <price>124990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/fhd/lb65/gp1/gallery/32-lb65/basic/lg-smart-tv-lb65-2026-32-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="43499" available="true">
@@ -432,6 +423,15 @@
         <price>599985</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/a_tv_av/tv_and-_sb_pto/nano/75nu850b6la-s30a/450x450px.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="57175" available="false">
+        <name>32-дюймовый телевизор LG SMART TV AI LB65 FHD 2026</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/smart-tvs/32lb650b6la/</url>
+        <price>124990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/fhd/lb65/gp1/gallery/32-lb65/basic/lg-smart-tv-lb65-2026-32-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="10379" available="false">
@@ -2404,6 +2404,33 @@ Hygiene Fresh™ 461л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/mwo-lgeak-lg-com/ms2535gisk-bseqcis/gallery/450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
+      <offer id="5862" available="true">
+        <name>Микроволновая печь MS2042DB LG Renaissance 20л</name>
+        <categoryId>7</categoryId>
+        <url>https://www.lg.com/kz/microwave-ovens/ms2042db/</url>
+        <price>55990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/microwave-ovens/ms2042db_bbkqcis_eeak_kz_c/MS2042DB_BBKQCIS_EEAK_KZ_C-350x350.jpg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="9397" available="true">
+        <name>Микроволновая печь MS2044V LG Renaissance 20л</name>
+        <categoryId>7</categoryId>
+        <url>https://www.lg.com/kz/microwave-ovens/solo-microwave-ovens/ms2044v/</url>
+        <price>57990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/microwave-ovens/ms2044v_bssqcis_erok_kz_c/ms2044v-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="5863" available="true">
+        <name>Микроволновая печь MS2042DY LG Renaissance 20л</name>
+        <categoryId>7</categoryId>
+        <url>https://www.lg.com/kz/microwave-ovens/solo-microwave-ovens/ms2042dy/</url>
+        <price>54990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/microwave-ovens/ms2042dy_bwhqcis_erok_kz_c/MS2042DY_BWHQCIS_EROK_KZ_C-350x350.jpg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
       <offer id="5866" available="true">
         <name>Микроволновая печь MS2535GIS LG NeoChef™ 25л</name>
         <categoryId>7</categoryId>
@@ -2447,33 +2474,6 @@ Hygiene Fresh™ 461л</name>
         <price>49990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/mwo-lgeak-lg-com/ms2082f-black/product-photos/gp1/microwave-oven-solo-2025-ms2082f-de-black-01-front-450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="5862" available="false">
-        <name>Микроволновая печь MS2042DB LG Renaissance 20л</name>
-        <categoryId>7</categoryId>
-        <url>https://www.lg.com/kz/microwave-ovens/ms2042db/</url>
-        <price>55990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/microwave-ovens/ms2042db_bbkqcis_eeak_kz_c/MS2042DB_BBKQCIS_EEAK_KZ_C-350x350.jpg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="9397" available="false">
-        <name>Микроволновая печь MS2044V LG Renaissance 20л</name>
-        <categoryId>7</categoryId>
-        <url>https://www.lg.com/kz/microwave-ovens/solo-microwave-ovens/ms2044v/</url>
-        <price>57990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/microwave-ovens/ms2044v_bssqcis_erok_kz_c/ms2044v-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="5863" available="false">
-        <name>Микроволновая печь MS2042DY LG Renaissance 20л</name>
-        <categoryId>7</categoryId>
-        <url>https://www.lg.com/kz/microwave-ovens/solo-microwave-ovens/ms2042dy/</url>
-        <price>54990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/microwave-ovens/ms2042dy_bwhqcis_erok_kz_c/MS2042DY_BWHQCIS_EROK_KZ_C-350x350.jpg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="5727" available="false">
