@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-25 08:49">
+<yml_catalog date="2026-11-25 10:57">
   <shop>
     <name>LG Electronics Kazakhstan</name>
     <company>LG Electronics</company>
@@ -650,7 +650,7 @@
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/2024_he_lg-com/av/xl9t/gallery/av-xboom-xl9t-thumbnailanimation-01.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="17553" available="true">
+      <offer id="17553" available="false">
         <name>Холодильник GC-V459FB6W LG InstaView™ 349л</name>
         <categoryId>3</categoryId>
         <url>https://www.lg.com/kz/refrigerators/bottom-freezer/gc-v459fb6w/</url>
@@ -687,15 +687,6 @@ LG Side-by-Side 617л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/pdp-plp-update-instaview-without-cosmetic/450x450/GR-X24FQEKM_450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="43313" available="true">
-        <name>Холодильник с нижней морозильной камерой LG GC-B459EMLM с технологией Zero Clearance™, 333 л</name>
-        <categoryId>3</categoryId>
-        <url>https://www.lg.com/kz/refrigerators/bottom-freezer/gc-b459emlm/</url>
-        <price>329990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/bottom-freezers/f-ub7/gc-b459emlm-apyqrus/gallery/GC-B459EMLM-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="38180" available="true">
         <name>Холодильник LG GC-B640FMBM DoorCooling⁺ 465 л</name>
         <categoryId>3</categoryId>
@@ -730,16 +721,6 @@ LG Side-by-Side 617л</name>
         <price>314990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/refrigerators/ga-b459sqcl_aswqcis_eeak_kz_c/GA-B459SQCL_ASWQCIS_EEAK_KZ_C-350x350.jpg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="5883" available="true">
-        <name>Холодильник GC-X257CAEV
-LG Side-by-Side 617л</name>
-        <categoryId>3</categoryId>
-        <url>https://www.lg.com/kz/refrigerators/side-by-side-refrigerators/gc-x257caev/</url>
-        <price>1029990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/pdp-plp-update-instaview-without-cosmetic/450x450/GC-X257CAEV_450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="5819" available="true">
@@ -905,15 +886,6 @@ Hygiene Fresh™ 461л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/side-by-side/gc-b257kehw/product-photos/gallery/GC-B257KEHW-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="9727" available="true">
-        <name>Холодильник GC-B257KMHW LG Side-by-Side 658л</name>
-        <categoryId>3</categoryId>
-        <url>https://www.lg.com/kz/refrigerators/side-by-side-refrigerators/gc-b257kmhw/</url>
-        <price>659990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/side-by-side/gc-b257kmhw/product-photos/gallery/basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="8286" available="true">
         <name>Холодильник GC-B509QK9M LG Objet 387л</name>
         <categoryId>3</categoryId>
@@ -948,15 +920,6 @@ Hygiene Fresh™ 461л</name>
         <price>484990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/bottom-freezers/gc-b509fnpw/product-photos/gallery/basic450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="6900" available="true">
-        <name>Холодильник GC-B509FEPW LG DoorCooling+™ 387л</name>
-        <categoryId>3</categoryId>
-        <url>https://www.lg.com/kz/refrigerators/bottom-freezer/gc-b509fepw/</url>
-        <price>469990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/bottom-freezers/gc-b509fepw/product-photos/gallery/basic450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="22051" available="true">
@@ -996,6 +959,15 @@ Hygiene Fresh™ 461л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/bottom-freezers/excl-obs-f-ub-5-and-7/gc-b459eqym-aswqrus/gallery/GC-B459EQYM-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
+      <offer id="43313" available="false">
+        <name>Холодильник с нижней морозильной камерой LG GC-B459EMLM с технологией Zero Clearance™, 333 л</name>
+        <categoryId>3</categoryId>
+        <url>https://www.lg.com/kz/refrigerators/bottom-freezer/gc-b459emlm/</url>
+        <price>329990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/bottom-freezers/f-ub7/gc-b459emlm-apyqrus/gallery/GC-B459EMLM-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
       <offer id="43308" available="false">
         <name>Холодильник с нижней морозильной камерой LG GC-B509EMTM с технологией Zero Clearance™, 375 л</name>
         <categoryId>3</categoryId>
@@ -1003,6 +975,16 @@ Hygiene Fresh™ 461л</name>
         <price>399990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/bottom-freezers/f-ub5/gc-b509emtm-apyqrus/gallery/GC-B509EMTM-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="5883" available="false">
+        <name>Холодильник GC-X257CAEV
+LG Side-by-Side 617л</name>
+        <categoryId>3</categoryId>
+        <url>https://www.lg.com/kz/refrigerators/side-by-side-refrigerators/gc-x257caev/</url>
+        <price>1029990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/pdp-plp-update-instaview-without-cosmetic/450x450/GC-X257CAEV_450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="5816" available="false">
@@ -1104,6 +1086,15 @@ Hygiene Fresh™ 461л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/refrigerators/gc-b257sqzv_aswqcis_erok_kz_c/GC-B257SQZV_ASWQCIS_EROK_KZ_C-350x350.jpg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
+      <offer id="9727" available="false">
+        <name>Холодильник GC-B257KMHW LG Side-by-Side 658л</name>
+        <categoryId>3</categoryId>
+        <url>https://www.lg.com/kz/refrigerators/side-by-side-refrigerators/gc-b257kmhw/</url>
+        <price>659990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/side-by-side/gc-b257kmhw/product-photos/gallery/basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
       <offer id="5837" available="false">
         <name>Холодильник GN-H702HEHL, HygieneFresh+™ 376л</name>
         <categoryId>3</categoryId>
@@ -1132,15 +1123,6 @@ Hygiene Fresh™ 612л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/refrigerators/gc-b257smzv_apzqcis_erok_kz_c/GC-B257SMZV_APZQCIS_EROK_KZ_C-350x350.jpg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="5809" available="false">
-        <name>Холодильник GC-B257SEZV LG Side-by-Side на 647л</name>
-        <categoryId>3</categoryId>
-        <url>https://www.lg.com/kz/refrigerators/side-by-side-refrigerators/gc-b257sezv/</url>
-        <price>709990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/refrigerators/gc-b257sezv_aseqcis_erok_kz_c/GC-B257SEZV_ASEQCIS_EROK_KZ_C-350x350.jpg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="5844" available="false">
         <name>Холодильник GR-H802HMHL, HygieneFresh+™ 418л</name>
         <categoryId>3</categoryId>
@@ -1148,6 +1130,15 @@ Hygiene Fresh™ 612л</name>
         <price>609990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/top-freezers/gr-h802hmhl/resized-photos/basic/350x350.png</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="5809" available="false">
+        <name>Холодильник GC-B257SEZV LG Side-by-Side на 647л</name>
+        <categoryId>3</categoryId>
+        <url>https://www.lg.com/kz/refrigerators/side-by-side-refrigerators/gc-b257sezv/</url>
+        <price>709990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/refrigerators/gc-b257sezv_aseqcis_erok_kz_c/GC-B257SEZV_ASEQCIS_EROK_KZ_C-350x350.jpg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="5710" available="false">
@@ -1204,6 +1195,15 @@ LG Side-by-Side 617л</name>
         <price>866883</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/refrigerators/gc-b257sszv_ambqcis_erok_kz_c/GC-B257SSZV_AMBQCIS_EROK_KZ_C-350x350.jpg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="6900" available="false">
+        <name>Холодильник GC-B509FEPW LG DoorCooling+™ 387л</name>
+        <categoryId>3</categoryId>
+        <url>https://www.lg.com/kz/refrigerators/bottom-freezer/gc-b509fepw/</url>
+        <price>469990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/bottom-freezers/gc-b509fepw/product-photos/gallery/basic450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="5842" available="false">
@@ -1484,33 +1484,6 @@ Hygiene Fresh™ 461л</name>
         <price>249990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-pdp/f2v5hs2s/f2v5hs2s-new-gallery/new/450/450-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="5709" available="true">
-        <name>Стиральная машина LG 11 кг - AIDD™ | Steam+™</name>
-        <categoryId>4</categoryId>
-        <url>https://www.lg.com/kz/laundry/washing-machines/tw4v7eb1w/</url>
-        <price>449990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-pdp/tw4v7eb1w-abwpcom/tw4v7eb1w-gallery-/Basic_450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="26422" available="true">
-        <name>Стиральная машина LG 11 кг - AIDD™ | Steam+™</name>
-        <categoryId>4</categoryId>
-        <url>https://www.lg.com/kz/laundry/washing-machines/tw4v7eb1w/</url>
-        <price>449990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-pdp/tw4v7eb1w-abwpcom/tw4v7eb1w-gallery-/Basic_450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="26434" available="true">
-        <name>Стиральная машина LG 11 кг - AIDD™ | Steam+™</name>
-        <categoryId>4</categoryId>
-        <url>https://www.lg.com/kz/laundry/washing-machines/tw4v7eb1w/</url>
-        <price>449990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-pdp/tw4v7eb1w-abwpcom/tw4v7eb1w-gallery-/Basic_450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="5770" available="true">
@@ -1835,6 +1808,33 @@ Hygiene Fresh™ 461л</name>
         <price>379990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-pdp/f2x5fs2m/f2x5fs2m-gallery/new/f2x5fyn26-f2x5fs2m-front-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="5709" available="false">
+        <name>Стиральная машина LG 11 кг - AIDD™ | Steam+™</name>
+        <categoryId>4</categoryId>
+        <url>https://www.lg.com/kz/laundry/washing-machines/tw4v7eb1w/</url>
+        <price>449990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-pdp/tw4v7eb1w-abwpcom/tw4v7eb1w-gallery-/Basic_450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="26422" available="false">
+        <name>Стиральная машина LG 11 кг - AIDD™ | Steam+™</name>
+        <categoryId>4</categoryId>
+        <url>https://www.lg.com/kz/laundry/washing-machines/tw4v7eb1w/</url>
+        <price>449990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-pdp/tw4v7eb1w-abwpcom/tw4v7eb1w-gallery-/Basic_450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="26434" available="false">
+        <name>Стиральная машина LG 11 кг - AIDD™ | Steam+™</name>
+        <categoryId>4</categoryId>
+        <url>https://www.lg.com/kz/laundry/washing-machines/tw4v7eb1w/</url>
+        <price>449990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/wm-dryer-lg-styler/wm-pdp/tw4v7eb1w-abwpcom/tw4v7eb1w-gallery-/Basic_450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="5740" available="false">
@@ -2476,15 +2476,6 @@ Hygiene Fresh™ 461л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/mwo-lgeak-lg-com/mh6032gask-bseqcis/gallery-original/resized/basic-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="67485" available="true">
-        <name>Микроволновая печь LG MS2082F Соло, 20л</name>
-        <categoryId>7</categoryId>
-        <url>https://www.lg.com/kz/microwave-ovens/solo-microwave-ovens/ms2082f/</url>
-        <price>49990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/mwo-lgeak-lg-com/ms2082f-black/product-photos/gp1/microwave-oven-solo-2025-ms2082f-de-black-01-front-450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="5866" available="false">
         <name>Микроволновая печь MS2535GIS LG NeoChef™ 25л</name>
         <categoryId>7</categoryId>
@@ -2555,6 +2546,15 @@ Hygiene Fresh™ 461л</name>
         <price>93990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/microwave-ovens/ms2535gish_bhbqcis_eeak_kz_c/Basic_350.jpg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="67485" available="false">
+        <name>Микроволновая печь LG MS2082F Соло, 20л</name>
+        <categoryId>7</categoryId>
+        <url>https://www.lg.com/kz/microwave-ovens/solo-microwave-ovens/ms2082f/</url>
+        <price>49990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/mwo-lgeak-lg-com/ms2082f-black/product-photos/gp1/microwave-oven-solo-2025-ms2082f-de-black-01-front-450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="67486" available="false">
