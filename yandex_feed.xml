@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-26 06:06">
+<yml_catalog date="2026-11-26 08:14">
   <shop>
     <name>LG Electronics Kazakhstan</name>
     <company>LG Electronics</company>
@@ -117,6 +117,33 @@
         <price>1539990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/qned-evo/qned85/gp1/gallery/86-qned85/basic/lg-qned-evo-qned85-2026-86-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="43501" available="true">
+        <name>65-дюймовый телевизор Smart TV LG NANO 4K UHD AI NU85 2026 + LG Soundbar S30A с WOW Orchestra и WOW Interface</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/nanocell/65nu850b6la-s30a/</url>
+        <price>439985</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/a_tv_av/tv_and-_sb_pto/nano/65nu850b6la-s30a/450x450px.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="45535" available="true">
+        <name>65-дюймовый телевизор Smart TV LG NANO 4K UHD AI NU85 2026 + LG Soundbar S30A с WOW Orchestra и WOW Interface</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/nanocell/65nu850b6la-s30a/</url>
+        <price>439985</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/a_tv_av/tv_and-_sb_pto/nano/65nu850b6la-s30a/450x450px.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="53241" available="true">
+        <name>65-дюймовый телевизор Smart TV LG NANO 4K UHD AI NU85 2026 + LG Soundbar S30A с WOW Orchestra и WOW Interface</name>
+        <categoryId>1</categoryId>
+        <url>https://www.lg.com/kz/tvs-soundbars/nanocell/65nu850b6la-s30a/</url>
+        <price>439985</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/a_tv_av/tv_and-_sb_pto/nano/65nu850b6la-s30a/450x450px.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="43504" available="true">
@@ -351,33 +378,6 @@
         <price>729990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/1-channel/kz/ms/lgcom/2026/tv-audio-video/tv/qned-evo/qned8m/gp1/gallery/85-qned8m/basic/lg-qned-evo-qned8m-2026-85-gallery-basic.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="43501" available="false">
-        <name>65-дюймовый телевизор Smart TV LG NANO 4K UHD AI NU85 2026 + LG Soundbar S30A с WOW Orchestra и WOW Interface</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/nanocell/65nu850b6la-s30a/</url>
-        <price>439985</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/a_tv_av/tv_and-_sb_pto/nano/65nu850b6la-s30a/450x450px.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="45535" available="false">
-        <name>65-дюймовый телевизор Smart TV LG NANO 4K UHD AI NU85 2026 + LG Soundbar S30A с WOW Orchestra и WOW Interface</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/nanocell/65nu850b6la-s30a/</url>
-        <price>439985</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/a_tv_av/tv_and-_sb_pto/nano/65nu850b6la-s30a/450x450px.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="53241" available="false">
-        <name>65-дюймовый телевизор Smart TV LG NANO 4K UHD AI NU85 2026 + LG Soundbar S30A с WOW Orchestra и WOW Interface</name>
-        <categoryId>1</categoryId>
-        <url>https://www.lg.com/kz/tvs-soundbars/nanocell/65nu850b6la-s30a/</url>
-        <price>439985</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/a_tv_av/tv_and-_sb_pto/nano/65nu850b6la-s30a/450x450px.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="57199" available="false">
@@ -886,6 +886,16 @@ Hygiene Fresh™ 461л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/top-freezers/gn-b452smbk/gallery/Basic-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
+      <offer id="34430" available="true">
+        <name>Холодильник GR-B922FEBM
+Hygiene Fresh™ 612л</name>
+        <categoryId>3</categoryId>
+        <url>https://www.lg.com/kz/refrigerators/top-freezer/gr-b922febm/</url>
+        <price>759990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/top-freezers/gr-b922febm/product-photos/vt1_best_gr-b922febm_se/450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
       <offer id="8286" available="true">
         <name>Холодильник LG GC-B509QK9M DoorCooling+™ 387л</name>
         <categoryId>3</categoryId>
@@ -1102,16 +1112,6 @@ LG Side-by-Side 617л</name>
         <price>549990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/top-freezers/gn-h702hehl/resized-photos/basic/350x350.png</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="34430" available="false">
-        <name>Холодильник GR-B922FEBM
-Hygiene Fresh™ 612л</name>
-        <categoryId>3</categoryId>
-        <url>https://www.lg.com/kz/refrigerators/top-freezer/gr-b922febm/</url>
-        <price>759990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/top-freezers/gr-b922febm/product-photos/vt1_best_gr-b922febm_se/450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="5810" available="false">
@@ -2458,6 +2458,24 @@ Hygiene Fresh™ 461л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/microwave-ovens/ms2042dy_bwhqcis_erok_kz_c/MS2042DY_BWHQCIS_EROK_KZ_C-350x350.jpg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
+      <offer id="5866" available="true">
+        <name>Микроволновая печь MS2535GIS LG NeoChef™ 25л</name>
+        <categoryId>7</categoryId>
+        <url>https://www.lg.com/kz/microwave-ovens/ms2535gis/</url>
+        <price>91990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/microwave-ovens/ms2535gis_bbkqcis_eeak_kz_c/MS2535GIS_350.jpg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="5728" available="true">
+        <name>Микроволновая печь MS2336GIH LG NeoChef™ 23л</name>
+        <categoryId>7</categoryId>
+        <url>https://www.lg.com/kz/microwave-ovens/ms2336gih/</url>
+        <price>74990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/microwave-ovens/ms2336gih_bwhqcis_eeak_kz_c/ms2336gih-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
       <offer id="5957" available="true">
         <name>Микроволновая печь MH6032GAS LG NeoChef™ 20л</name>
         <categoryId>7</categoryId>
@@ -2476,15 +2494,6 @@ Hygiene Fresh™ 461л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/mwo-lgeak-lg-com/mh6032gask-bseqcis/gallery-original/resized/basic-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="5866" available="false">
-        <name>Микроволновая печь MS2535GIS LG NeoChef™ 25л</name>
-        <categoryId>7</categoryId>
-        <url>https://www.lg.com/kz/microwave-ovens/ms2535gis/</url>
-        <price>91990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/microwave-ovens/ms2535gis_bbkqcis_eeak_kz_c/MS2535GIS_350.jpg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="5727" available="false">
         <name>Микроволновая печь MH6565DIS LG NeoChef™ 25л</name>
         <categoryId>7</categoryId>
@@ -2501,15 +2510,6 @@ Hygiene Fresh™ 461л</name>
         <price>99990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/microwave-ovens/ms2595dis_bbkqcis_eeak_kz_c/350-thumb-MWO.jpg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
-      <offer id="5728" available="false">
-        <name>Микроволновая печь MS2336GIH LG NeoChef™ 23л</name>
-        <categoryId>7</categoryId>
-        <url>https://www.lg.com/kz/microwave-ovens/ms2336gih/</url>
-        <price>74990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/microwave-ovens/ms2336gih_bwhqcis_eeak_kz_c/ms2336gih-450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="5867" available="false">
