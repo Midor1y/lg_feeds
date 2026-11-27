@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE yml_catalog SYSTEM "shops.dtd">
-<yml_catalog date="2026-11-28 00:31">
+<yml_catalog date="2026-11-28 02:39">
   <shop>
     <name>LG Electronics Kazakhstan</name>
     <company>LG Electronics</company>
@@ -804,15 +804,6 @@ LG Side-by-Side 617л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/pdp-plp-update-instaview-without-cosmetic/450x450/GC-X24FFCBB_450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="6901" available="true">
-        <name>Холодильник LG GC-B509FTZW Door Cooling+ с нижней морозильной камерой 387л</name>
-        <categoryId>3</categoryId>
-        <url>https://www.lg.com/kz/refrigerators/bottom-freezer/gc-b509ftzw/</url>
-        <price>494990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/bottom-freezers/gc-b509ftzw/feature-cards/gallery/01-basic/450-x-450/01-ref-f-vb-gc-b509fszw-front-450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="5817" available="true">
         <name>Холодильник LG GC-B459SECL Door Cooling+ с нижней морозильной камерой 341л</name>
         <categoryId>3</categoryId>
@@ -820,6 +811,15 @@ LG Side-by-Side 617л</name>
         <price>259990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/refrigerators/gc-b459secl_aseqcis_eeak_kz_c/GC-B459SECL_ASEQCIS_EEAK_KZ_C-350x350.jpg</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="6901" available="true">
+        <name>Холодильник LG GC-B509FTZW Door Cooling+ с нижней морозильной камерой 387л</name>
+        <categoryId>3</categoryId>
+        <url>https://www.lg.com/kz/refrigerators/bottom-freezer/gc-b509ftzw/</url>
+        <price>494990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/bottom-freezers/gc-b509ftzw/feature-cards/gallery/01-basic/450-x-450/01-ref-f-vb-gc-b509fszw-front-450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="5841" available="true">
@@ -1105,15 +1105,6 @@ LG Side-by-Side 617л</name>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/pdp-plp-update-instaview-without-cosmetic/450x450/GC-V24FFCHB_450x450.jpg/jcr:content/renditions/thum-350x350.jpeg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
-      <offer id="5810" available="false">
-        <name>Холодильник GC-B257SMZV LG Side-by-Side 647л</name>
-        <categoryId>3</categoryId>
-        <url>https://www.lg.com/kz/refrigerators/side-by-side-refrigerators/gc-b257smzv/</url>
-        <price>739990</price>
-        <currencyId>KZT</currencyId>
-        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/refrigerators/gc-b257smzv_apzqcis_erok_kz_c/GC-B257SMZV_APZQCIS_EROK_KZ_C-350x350.jpg</picture>
-        <vendor>LG Electronics</vendor>
-      </offer>
       <offer id="5837" available="false">
         <name>Холодильник GN-H702HEHL, HygieneFresh+™ 376л</name>
         <categoryId>3</categoryId>
@@ -1121,6 +1112,15 @@ LG Side-by-Side 617л</name>
         <price>549990</price>
         <currencyId>KZT</currencyId>
         <picture>https://www.lg.com/content/dam/channel/wcms/kz/ref/top-freezers/gn-h702hehl/resized-photos/basic/350x350.png</picture>
+        <vendor>LG Electronics</vendor>
+      </offer>
+      <offer id="5810" available="false">
+        <name>Холодильник GC-B257SMZV LG Side-by-Side 647л</name>
+        <categoryId>3</categoryId>
+        <url>https://www.lg.com/kz/refrigerators/side-by-side-refrigerators/gc-b257smzv/</url>
+        <price>739990</price>
+        <currencyId>KZT</currencyId>
+        <picture>https://www.lg.com/content/dam/channel/wcms/kz/images/refrigerators/gc-b257smzv_apzqcis_erok_kz_c/GC-B257SMZV_APZQCIS_EROK_KZ_C-350x350.jpg</picture>
         <vendor>LG Electronics</vendor>
       </offer>
       <offer id="5813" available="false">
